@@ -1,0 +1,53 @@
+[
+  {
+    "id": "PLANT001",
+    "common_name": "Snake Plant",
+    "scientific_name": "Sansevieria trifasciata",
+    "family": "Asparagaceae",
+    "origin": "West Africa",
+    "description": "A very popular and easy-to-care-for houseplant known for its upright, sword-like leaves. It's excellent for air purification.",
+    "care_level": "Easy",
+    "light_requirements": "Low to bright indirect light",
+    "water_requirements": "Allow soil to dry out completely between waterings",
+    "humidity_preference": "Low to average",
+    "soil_type": "Well-draining potting mix",
+    "mature_size": "2-4 feet tall",
+    "flowering": false,
+    "pet_friendly": false,
+    "notes": "Tolerates neglect well, ideal for beginners."
+  },
+  {
+    "id": "PLANT002",
+    "common_name": "ZZ Plant",
+    "scientific_name": "Zamioculcas zamiifolia",
+    "family": "Araceae",
+    "origin": "Eastern Africa",
+    "description": "A remarkably resilient and drought-tolerant plant with thick, waxy, dark green leaves. It's known for its ability to thrive in very low light conditions.",
+    "care_level": "Very Easy",
+    "light_requirements": "Very low to bright indirect light",
+    "water_requirements": "Water sparingly, allow soil to dry out completely for several weeks",
+    "humidity_preference": "Low",
+    "soil_type": "Well-draining potting mix, sandy soil preferred",
+    "mature_size": "2-3 feet tall",
+    "flowering": false,
+    "pet_friendly": false,
+    "notes": "Excellent choice for offices or areas with minimal natural light. All parts are toxic if ingested."
+  },
+  {
+    "id": "PLANT003",
+    "common_name": "Pothos",
+    "scientific_name": "Epipremnum aureum",
+    "family": "Araceae",
+    "origin": "French Polynesia",
+    "description": "A classic vining houseplant with heart-shaped leaves, available in various variegations. It's incredibly versatile and easy to propagate.",
+    "care_level": "Easy",
+    "light_requirements": "Low to medium indirect light",
+    "water_requirements": "Water when the top inch of soil feels dry",
+    "humidity_preference": "Average",
+    "soil_type": "Standard potting mix",
+    "mature_size": "Vines can reach 10+ feet",
+    "flowering": false,
+    "pet_friendly": false,
+    "notes": "Can be grown in hanging baskets or trained to climb. Many different cultivars exist (e.g., 'Marble Queen', 'Neon'). Mildly toxic to pets."
+  }
+]
