@@ -76,7 +76,7 @@
         "Temperature":"70°F-80°F ",
         "Height":"12-24 inches"
     },
-    "plant8":{
+    {
         "common_name":"Begonia",
         "Category":"Indoor",
         "scientific_name":"Begonia",
@@ -87,7 +87,7 @@
         "Temperature":"60°F and 80°F",
         "Height":"8-24 inches"
     },
-    "plant9":{
+    {
         "common_name":"Boston Fern",
         "Category":"Indoor",
         "scientific_name":"Nephrolepis exalta",
@@ -98,7 +98,7 @@
         "Temperature":"65-75°F",
         "Height":"6-60 inches"
     },
-    "plant10":{
+    {
         "common_name":"Bunny ear cactus",
         "Category":"Indoor",
         "scientific_name":"Opuntia microdasys",
@@ -109,7 +109,7 @@
         "Temperature":"65°F to 85°F",
         "Height":"12-24 inches"
     },
-    "plant11":{
+    {
         "common_name":"Calathea",
         "Category":"Indoor",
         "scientific_name":"Calathea",
@@ -120,7 +120,7 @@
         "Temperature":"65°F to 85°F",
         "Height":"12-36 inches"
     },
-    "plant12":{
+    {
         "common_name":"Chinese Evergreen",
         "Category":"Indoor",
         "scientific_name":"Aglaonema",
@@ -131,7 +131,7 @@
         "Temperature":"65°F to 80°F",
         "Height":"12-36 inches"
     },
-    "plant13":{
+    {
         "common_name":"Corn/Cornstalk Plant",
         "Category":"Indoor",
         "scientific_name":"Dracaena Fragrans",
@@ -153,7 +153,7 @@
         "Temperature":"60°F-85°F",
         "Height":"12-36 inches"
     },
-    "plant15":{
+    {
         "common_name":"Dieffenbachia",
         "Category":"Indoor",
         "scientific_name":"Dieffenbachia seguine",
@@ -164,7 +164,7 @@
         "Temperature":"65°F to 75°F",
         "Height":"36-72 inches"
     },
-    "plant16":{
+    {
         "common_name":"Donkey Tail",
         "Category":"Indoor",
         "scientific_name":"Sedum morganianum",
@@ -175,7 +175,7 @@
         "Temperature":"60°F to 80°F",
         "Height":"6-12 inches"
     },
-    "plant17":{
+    {
         "common_name":"Dragon Tree/Marginata",
         "Category":"Indoor",
         "scientific_name":"Dracaena Draco",
@@ -186,7 +186,7 @@
         "Temperature":"65°F to 80°F",
         "Height":"Up tp 240 inches"
     },
-    "plant18":{
+    {
         "common_name":"Dwarf Umbrella Plant",
         "Category":"Indoor",
         "scientific_name":"Schefflera arboricola",
@@ -197,7 +197,7 @@
         "Temperature":"60-75°F",
         "Height":"24-36 inches"
     },
-    "plant19":{
+    {
         "common_name":"Ferns",
         "Category":"Indoor",
         "scientific_name":"Tracheophyta",
@@ -208,7 +208,7 @@
         "Temperature":"60-75°F",
         "Height":"12-36 inches"
     },
-    "plant20":{
+    {
         "common_name":"Ficus A1 Gold",
         "Category":"Indoor",
         "scientific_name":"Ficus Alii",
@@ -219,7 +219,7 @@
         "Temperature":" Water when the top inch of soil feels dry, typically every 5-7 days.",
         "Height":"12-18 inches"
     },
-    "plant21":{
+    {
         "common_name":"Fiddle leaf fig plant",
         "Category":"Indoor",
         "scientific_name":"Ficus lyrata",
@@ -230,7 +230,7 @@
         "Temperature":"65°F to 85°F",
         "Height":"Up to 120 inches"
     },
-    "plant22":{
+    {
         "common_name":"Gerbera Daisy",
         "Category":"Indoor",
         "scientific_name":"Gerbera",
@@ -241,7 +241,7 @@
         "Temperature":"65°F and 75°F",
         "Height":"12-36 inches"
     },
-    "plant23":{
+    {
         "common_name":"Golden Pothos",
         "Category":"Indoor",
         "scientific_name":"Epipremum aureum",
@@ -252,7 +252,7 @@
         "Temperature":"60-85°F",
         "Height":"72-96 inches"
     },
-    "plant24":{
+    {
         "common_name":"Grafted ficus bonsai",
         "Category":"Indoor",
         "scientific_name":"Ficus microcarpa",
@@ -263,7 +263,7 @@
         "Temperature":"60-75°F",
         "Height":"12-36 inches"
     },
-    "plant25":{
+    {
         "common_name":"Grape Ivy",
         "Category":"Indoor",
         "scientific_name":"Cissus rhombofolia",
@@ -274,7 +274,7 @@
         "Temperature":"68°F and 82°F",
         "Height":"Up tp 18 inches"
     },
-    "plant26":{
+    {
         "common_name":"Heart-leaf Philodendron",
         "Category":"Indoor",
         "scientific_name":"Philodendron hederaceum",
@@ -285,7 +285,7 @@
         "Temperature":"65°F to 85°F",
         "Height":"12-36 inches"
     },
-    "plant27":{
+    {
         "common_name":"Indian Basil",
         "Category":"Indoor",
         "scientific_name":"Ocimum tenuiflorum",
@@ -296,7 +296,7 @@
         "Temperature":"68-86°F",
         "Height":"12-24 inches"
     },
-    "plant28":{
+    {
         "common_name":"Jade Plant",
         "Category":"Indoor",
         "scientific_name":"Crassula Ovata",
@@ -307,7 +307,7 @@
         "Temperature":"65°F to 75°F",
         "Height":"36-72 inches"
     },
-    "plant29":{
+    {
         "common_name":"Janet Craig",
         "Category":"Indoor",
         "scientific_name":"Dracena deremensis",
@@ -758,5 +758,390 @@
         "Sunlight":"At least 6 hours of direct sunlight but can tolerate partial sunlight.",
         "Temperature":"70°F to 100°F",
         "Height":"Up to 100 feet"
+    },
+    {
+        "common_name":"Neem",
+        "Category":"Outdoor",
+        "scientific_name":"Azadirachta indica",
+        "Description":"Neem is a versatile tree native to India and Southeast Asia, known for its numerous medicinal, agricultural, and industrial uses. It's a broad-leaved evergreen that can grow up to 30 meters tall, with a distinctive bark and a rounded crown. Every part of the neem tree, from the leaves and bark to the seeds and oil, has been traditionally used for various purposes, including medicine, pest control, and even food. Neem trees are drought-resistant and can thrive in various climates, making them suitable for reforestation and agroforestry projects.",
+        "Image_Url":"https://www.google.com/imgres?q=neem%20tree%20images&imgurl=http%3A%2F%2Flalitenterprise.com%2Fcdn%2Fshop%2Ffiles%2FUntitled_design_-_2024-06-17T173852.088.webp%3Fv%3D1718627332&imgrefurl=https%3A%2F%2Flalitenterprise.com%2Fproducts%2Fneem-tree-azadirachta-indica-plant&docid=aRJxCNmi_n0-xM&tbnid=Lu6ZWP4ZMCB4jM&vet=12ahUKEwjw4tT-meGNAxVcyzgGHe3qJd8QM3oECC4QAA..i&w=734&h=734&hcb=2&ved=2ahUKEwjw4tT-meGNAxVcyzgGHe3qJd8QM3oECC4QAA",
+        "Watering":"As they are draught-tolerant, they need regular watering, especially during dry periods.",
+        "Sunlight":"Full exposure to sun with 6-8 hours direct sunlight.",
+        "Temperature":"70°F to 100°F",
+        "Height":"49-98 feet"
+    },
+    {
+        "common_name":"Siris Tree",
+        "Category":"Outdoor",
+        "scientific_name":"Albizzia lebbek",
+        "Description":"It is a fast-growing, deciduous tree native to the Indian subcontinent and Southeast Asia. It's also known as the Woman's Tongue tree or sometimes black siris. Bipinnate, meaning they have multiple sets of smaller leaflets arranged along a central stalk.  Like other members of the Fabaceae family, it fixes nitrogen in the soil, enriching it for other plants. The tree is used for various purposes, including timber, fuel wood, and ornamental planting.",
+        "Image_Url":"https://www.google.com/imgres?q=siris%20tree%20images&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F51T9AgM8xfL._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FSRI-SAI-FORESTRY-Womans-Tongue%2Fdp%2FB09525FKGM&docid=6yiUBrIXL1fjbM&tbnid=d8h4ph7fOogqOM&vet=12ahUKEwi1sYKQmuGNAxU8zTgGHSD9AZcQM3oECBwQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwi1sYKQmuGNAxU8zTgGHSD9AZcQM3oECBwQAA",
+        "Watering":"Requires moderate watering, ensuring the soil stays consistently moist but not waterlogged.",
+        "Sunlight":"6-8 hours of daily and direct sunlight",
+        "Temperature":"65°F to 75°F",
+        "Height":"15-30 feet"
+    },
+    {
+        "common_name":"Gulmohar Tree",
+        "Category":"Outdoor",
+        "scientific_name":"Delonix regia",
+        "Description":"a beautiful flowering tree known for its vibrant, red-orange blossoms and fern-like, bipinnately compound leaves. It thrives in tropical and subtropical regions and is a fast-growing tree, often reaching heights of 10-12 meters, sometimes more. The crown is umbrella shaped. The bark is smooth, pale grey and often creased at branch forks. Because it is a legume, the tree has nitrogen-fixing and soil improving properties.",
+        "Image_Url":"https://www.google.com/imgres?q=gulmohar%20tree%20images&imgurl=https%3A%2F%2Fnurserylive.com%2Fcdn%2Fshop%2Fproducts%2Fnurserylive-gulmohar-tree-delonix-regia-plant_512x512.jpg%3Fv%3D1634220919&imgrefurl=https%3A%2F%2Fnurserylive.com%2Fproducts%2Fgulmohar-tree-delonix-regia-plant&docid=wyligEnfDELlNM&tbnid=wnSxga-00tYPlM&vet=12ahUKEwiMsL3UmuGNAxVY4jgGHQbFKnUQM3oECGgQAA..i&w=512&h=512&hcb=2&ved=2ahUKEwiMsL3UmuGNAxVY4jgGHQbFKnUQM3oECGgQAA",
+        "Watering":"Should be watered deeply once a week or more often if the soil is dry, reduce watering during winter.",
+        "Sunlight":"6 hours of direct sunlight",
+        "Temperature":"59°F to 104°F",
+        "Height":"33-39 feet"
+    },
+    {
+        "common_name":"Jacaranda",
+        "Category":"Outdoor",
+        "scientific_name":"Jacaranda mimosofolia",
+        "Description":"Jacaranda is a genus of flowering trees native to South and Central America, known for its beautiful purple or blue flowers and attractive, fern-like leaves. These trees are often cultivated as ornamentals, particularly in warmer climates, due to their rapid growth, showy blooms, and spreading canopies. In some regions, jacarandas have been reported as invasive, outcompeting other native vegetation due to their fast growth and deep root systems. Pruning is important to maintain their shape, remove dead or damaged branches, and prevent potential hazards in high-use areas.",
+        "Image_Url":"https://www.google.com/imgres?q=jacarandatree%20images&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61fBKQnMquL._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FNatural-Jacaranda-tree-flower-plant%2Fdp%2FB0D93XX42R&docid=oBGbKjXuwnHNpM&tbnid=tQPQEEIba5hNkM&vet=12ahUKEwiNn5TomuGNAxXpyzgGHYVhBTMQM3oECBsQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwiNn5TomuGNAxXpyzgGHYVhBTMQM3oECBsQAA",
+        "Watering":"Moderate watering, especially during dry spells",
+        "Sunlight":"Full sun, requiring at least 6-8 hours of direct sunlight daily",
+        "Temperature":"65°F to 85°F",
+        "Height":"25-50 feet"
+    },
+    {
+        "common_name":"Ashoka Tree",
+        "Category":"Outdoor",
+        "scientific_name":"Saraka indica",
+        "Description":" It's a prized ornamental tree in India and other tropical regions, with a history of medicinal and cultural significance. The Ashoka tree is famous for its clusters of bright orange-yellow to red flowers, which are fragrant. They are often found in heavy, lush bunches and can be seen blooming in the early spring. The bark is particularly used for gynecological problems, menstrual disorders, and uterine spasms.",
+        "Image_Url":"https://www.google.com/imgres?q=ashoka%20tree%20images&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fashoka-tree-long-green-some-golden-new-leaves-july-ashoka-tree-long-green-some-golden-new-leaves-outside-154279015.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fashoka-tree-long-green-some-golden-new-leaves-july-ashoka-tree-long-green-some-golden-new-leaves-outside-image154279015&docid=uxSQulhA_wiN5M&tbnid=NJckE3279zSbCM&vet=12ahUKEwiEwZn-muGNAxXazTgGHetPAvcQM3oECDMQAA..i&w=596&h=900&hcb=2&ved=2ahUKEwiEwZn-muGNAxXazTgGHetPAvcQM3oECDMQAA",
+        "Watering":" Requires regular watering, but not overwatering. They also prefer well-drained soil",
+        "Sunlight":"6-8 hours of direct sunlight daily",
+        "Temperature":"68°F to 95°F",
+        "Height":"33-39 feet"
+    },
+    {
+        "common_name":"Golden Shower Tree",
+        "Category":"Outdoor",
+        "scientific_name":"Casia Fistula",
+        "Description":"It is a deciduous tree native to South and Southeast Asia, known for its vibrant yellow flowers and cultural significance. It is a popular ornamental plant and has various medicinal properties. The tree's name comes from the word Cassia, referring to its aromatic bark, and Fistula, indicating the tubular shape of its pods. Has been used traditionally for various medicinal purposes, including liver protection, antioxidant, and anti-inflammatory properties.",
+        "Image_Url":"https://www.google.com/imgres?q=goldenshower%20tree%20images&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F71kiCSmyV0L._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FAiden-Gardens-Fistula-Ornamental-Kanikonna%2Fdp%2FB083JJ8JBH&docid=oHrvpsrflGQQZM&tbnid=U7_FXh3wxbZPpM&vet=12ahUKEwjI9KKPm-GNAxV5oGMGHTLpDugQM3oECB0QAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwjI9KKPm-GNAxV5oGMGHTLpDugQM3oECB0QAA",
+        "Watering":"Consistent watering, but not waterlogged",
+        "Sunlight":"Needs full sun, ideally 6-8 hours of direct sunlight daily",
+        "Temperature":"68°F to 86°F",
+        "Height":"30 to 40 feet"
+    },
+    {
+        "common_name":"Karanj Tree",
+        "Category":"Outdoor",
+        "scientific_name":"Pongamia pinnata",
+        "Description":"It is a fast-growing tree often planted for shade and has significant environmental benefits. Karanja trees are known for their nitrogen-fixing abilities, which enhance soil fertility, and their ability to withstand drought conditions. They are also valued for their diverse uses, including medicinal properties and biofuel production. It's dense root network and thick taproot system is helpful in drought tolerance.",
+        "Image_Url":"https://kadiyamrajasrinursery.com/cdn/shop/files/Millettia_pongamia_pinnata_1024x1024_3581232d-074e-4982-8279-2c4c4a190539.webp?v=1690373962",
+        "Watering":"Consistent watering, especially during dry periods, with watering frequency reduced during rainy seasons.",
+        "Sunlight":"Need full exposure to sun",
+        "Temperature":"32°F to 122°F",
+        "Height":"49-82 feet"
+    },
+    {
+        "common_name":"Eucalyptus",
+        "Category":"Outdoor",
+        "scientific_name":"Eucalyptus spp.",
+        "Description":"hey are known for their unique bark (often smooth, fibrous, or stringy), oil-infused leaves (used in aromatherapy and medicine), and distinctive gumnuts (woody fruit capsules). Eucalypts are highly adaptable and can grow in a wide range of habitats, from coastal areas to mountainous regions, and are widely cultivated for timber, pulp, and essential oil production.",
+        "Image_Url":"https://www.google.com/imgres?q=eucalyptus%20tree%20images&imgurl=https%3A%2F%2Fwww.guttervac.com.au%2Fwp-content%2Fuploads%2F2023%2F04%2FR-1-1024x768.jpg&imgrefurl=https%3A%2F%2Fwww.guttervac.com.au%2Fbrisbane-east%2Fpros-and-cons-large-eucalyptus-trees-on-your-property-in-brisbane-east%2F&docid=qiYNXsDmCB1ugM&tbnid=929Edb7trV6hqM&vet=12ahUKEwiku7qpm-GNAxWlumMGHXvWKc0QM3oECB4QAA..i&w=1024&h=768&hcb=2&ved=2ahUKEwiku7qpm-GNAxWlumMGHXvWKc0QM3oECB4QAA",
+        "Watering":"Young plants requiring more frequent watering until established, and then becoming more drought-tolerant.",
+        "Sunlight":"6-8 hours of direct sunlight daily",
+        "Temperature":"68°F to 86°F",
+        "Height":"Over 200 feet"
+    },
+    {
+        "common_name":"Bamboo",
+        "Category":"Outdoor",
+        "scientific_name":"Bambusa spp.",
+        "Description":"Bamboo is a fast-growing, woody grass belonging to the family Poaceae, characterized by its hollow, cylindrical stems (culms). It's a highly versatile resource used for construction, furniture, paper, food, and more, with some species capable of growing over 1 meter in 24 hours. Bamboo is also a valuable ecological resource, known for its ability to rapidly absorb carbon dioxide and release oxygen. ",
+        "Image_Url":"https://www.google.com/imgres?q=bamboo%20tree%20images&imgurl=https%3A%2F%2Fwww.trees.com%2Fwp-content%2Fuploads%2Fproducts%2Fmedium%2F1000%2FGoldenBamboo1.webp&imgrefurl=https%3A%2F%2Fwww.trees.com%2Fbamboo-trees&docid=SxUHaRV8FORM5M&tbnid=Syc31lZGF7s8DM&vet=12ahUKEwj2-_e2m-GNAxXhzzgGHSe4GVQQM3oECBcQAA..i&w=666&h=1000&hcb=2&ved=2ahUKEwj2-_e2m-GNAxXhzzgGHSe4GVQQM3oECBcQAA",
+        "Watering":"Watering should be done regularly, ensuring the soil is moist but not soggy.",
+        "Sunlight":" Prefers bright, indirect sunlight",
+        "Temperature":"60°F to 80°F",
+        "Height":"Up to 75 feet or more"
+    },
+    {
+        "common_name":"Rose",
+        "Category":"Outdoor",
+        "scientific_name":"Rosa spp.",
+        "Description":"A rose is a type of flowering shrub belonging to the genus Rosa, known for its vibrant colors, diverse shapes, and often fragrant aroma. It's a popular plant grown worldwide, though its origins lie in China. Roses exhibit a wide range of forms, including shrubs, climbers, and miniature varieties, and are admired for their beauty and symbolic significance.",
+        "Image_Url":"https://www.google.com/imgres?q=rose%20tree%20images&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F480348072%2Fphoto%2Froses-bush-on-garden-landscape.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DSMKff_uNNuJdWMPY7tK_EWQKcDL-h2QDNXTiQBh6iCk%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Frose-bush&docid=q07J40OakxSzIM&tbnid=_9oMjvEbCP0LsM&vet=12ahUKEwj12ODIm-GNAxVLzzgGHZOcGN4QM3oECHYQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwj12ODIm-GNAxVLzzgGHZOcGN4QM3oECHYQAA",
+        "Watering":"Consistent watering, but not overwatering",
+        "Sunlight":"A minimum of six hours of sunlight",
+        "Temperature":"60°F to 75°F",
+        "Height":"Dwarf varieties: 8 inches. Climbing varieties: Up to 50 feet"
+    },
+    {
+        "common_name":"Hibiscus",
+        "Category":"Outdoor",
+        "scientific_name":"Hibiscus spp.",
+        "Description":"Hibiscus is a genus of flowering plants, part of the mallow family (Malvaceae), known for its showy, trumpet-shaped blooms. These plants come in various forms, from herbs to shrubs and even small trees. They are native to warm temperate, subtropical, and tropical regions worldwide. The flowers, leaves, and even the calyx can be used to make teas, extracts, and supplements. There are over 300 species of hibiscus, with a wide range of sizes, shapes, and flower colors.",
+        "Image_Url":"https://www.google.com/imgres?q=hibiscus%20tree%20images&imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F61n9tpHuv3L._AC_UF1000%2C1000_QL80_.jpg&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FNursery-Hibiscus-rosa-sinensis-Tropical-Shoeblackplant%2Fdp%2FB0CR9CBY1Q&docid=4FaXMD4SOi5yWM&tbnid=GQLbuSp9QxSq0M&vet=12ahUKEwjw-Lfbm-GNAxUF4zgGHSATG30QM3oECHkQAA..i&w=1000&h=750&hcb=2&ved=2ahUKEwjw-Lfbm-GNAxUF4zgGHSATG30QM3oECHkQAA",
+        "Watering":"Watering should be frequent, especially during the growing season, keeping the soil consistently moist but not soggy.",
+        "Sunlight":"At least 6-8 hours of direct sunlight daily",
+        "Temperature":"60-90°F",
+        "Height":"3-8 feet"
+    },
+    {
+        "common_name":"Bougainvillea",
+        "Category":"Outdoor",
+        "scientific_name":"Bougainvillea spp.",
+        "Description":"Bougainvillea is a genus of thorny, evergreen, woody vines or shrubs, known for their vibrant, colorful bracts (modified leaves) that surround their small, inconspicuous flowers. Native to South America, these plants are widely grown as ornamentals due to their fast growth and profuse blooms. The most striking feature of Bougainvillea is the colorful bracts that surround the actual flowers. These bracts can be found in various colors like red, pink, orange, purple, and white. Bougainvillea blooms throughout the year, with peak flowering during warmer months.",
+        "Image_Url":"https://www.google.com/imgres?q=bougainvillea%20tree%20images&imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0918%2F8442%2F1427%2Ffiles%2FHow-to-Grow-Bougainvillea-tree-1024x683_68fd9835-60ce-499e-b299-61e2ef31a59b.jpg%3Fv%3D1739806480&imgrefurl=https%3A%2F%2Fabanahomes.com%2Fblogs%2Fnews%2Fbougainvillea-tree-varieties-plant-grow-and-care-guide&docid=BtDZxSAYXrmgtM&tbnid=e60XA2I8xxfIhM&vet=12ahUKEwj5kvzrm-GNAxVGzDgGHQHrFasQM3oECEsQAA..i&w=1024&h=683&hcb=2&ved=2ahUKEwj5kvzrm-GNAxVGzDgGHQHrFasQM3oECEsQAA",
+        "Watering":"Requires consistent watering, but not overwatering. It prefers deep, infrequent watering to regular shallow waterings, allowing the top few inches of soil to dry out between waterings.",
+        "Sunlight":"Thrives in full sun (at least 6 hours of direct sunlight per day)",
+        "Temperature":"65°F to 95°F",
+        "Height":"15-40 feet"
+    },
+    {
+        "common_name":"Jasmine",
+        "Category":"Outdoor",
+        "scientific_name":"Jasminum spp.",
+        "Description":"Jasmine is a genus of flowering plants known for their fragrant white or yellow flowers and sweet scent. It is a popular ornamental plant, widely cultivated for its fragrance, used in perfumery, and also in teas. Jasmines are typically shrubs or vines that thrive in warm, temperate, and tropical climates. Many jasmine species are climbing shrubs or vines, often growing on structures or other plants. Jasmine tea is prepared by infusing jasmine flowers with tea leaves, enhancing the tea's flavor and fragrance.",
+        "Image_Url":"https://www.google.com/imgres?q=jasmine%20tree%20images&imgurl=https%3A%2F%2Fa-z-animals.com%2Fmedia%2F2022%2F12%2FShutterstock_2196045021-1024x768.jpg&imgrefurl=https%3A%2F%2Fa-z-animals.com%2Fplants%2Fjasmine-bonsai-tree%2F&docid=Xjn5sB0iwKN7CM&tbnid=OsptdLY5wDsgvM&vet=12ahUKEwiKlo7-m-GNAxUx1zgGHSC2PCUQM3oECBkQAA..i&w=1024&h=768&hcb=2&ved=2ahUKEwiKlo7-m-GNAxUx1zgGHSC2PCUQM3oECBkQAA",
+        "Watering":"Requires consisten moisture, typically watering once a week or more frequently during hot weather.",
+        "Sunlight":"Thrive with full sun, meaning 6 or more hours of direct sunlight daily.",
+        "Temperature":"60-75°F",
+        "Height":"10-15 feet"
+    },
+    {
+        "common_name":"Marigold",
+        "Category":"Outdoor",
+        "scientific_name":"Tagetes spp.",
+        "Description":"They are popular in gardens due to their easy cultivation, pest-repelling properties, and edible flowers. Marigolds are often used in celebrations, rituals, and as a food coloring agent, especially in South Asian cultures. Marigolds have a variety of flower shapes and colors, including pom-pom, anemone, and daisy-shaped blooms in hues of yellow, orange, red, gold, and even white. Marigolds are known to deter various pests, including nematodes and insects like aphids, cabbage maggots, and squash bugs. Marigold flowers are edible and can be used in salads, as a food coloring agent, and to enhance the yellow pigment in poultry egg yolks.",
+        "Image_Url":"https://www.google.com/imgres?q=marogold%20tree%20images&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Fmarigold-flower-farming-field-bush-tree-growing-yellow-flowers-farm-120756071.jpg&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2Fmarigold-flower-farming-field-bush-tree-growing-yellow-flowers-farm-image120756071&docid=C3GQyzVk7bZCaM&tbnid=Kbd3mEVdlYmP-M&vet=12ahUKEwj7g9WTnOGNAxVg4zgGHQ7VJbIQM3oECBkQAA..i&w=600&h=900&hcb=2&ved=2ahUKEwj7g9WTnOGNAxVg4zgGHQ7VJbIQM3oECBkQAA",
+        "Watering":"They prefer consistent watering, allowing the soil to dry slightly between waterings, especially during hot weather or if grown in containers.",
+        "Sunlight":"Marigolds thrive in full sun (6-8 hours daily)",
+        "Temperature":"70°F to 85°F",
+        "Height":"Up to 36 inches"
+    },
+    {
+        "common_name":"Silver Oak",
+        "Category":"Outdoor",
+        "scientific_name":"Grevillea robusta",
+        "Description":"It is a fast-growing, evergreen tree native to Australia but widely cultivated elsewhere. It's often called Silky Oak in Australia due to the silky texture of its leaves. While not a true oak, it's a popular choice for shade trees, especially in tea plantations. In India, it's primarily used as a shade tree, particularly in tea plantations, but is also valued for its timber and honey production. It can also be used for beautification and other purposes. Besides Silver Oak and Silky Oak, it's also known as Southern Silky Oak or Australian Silver Oak.",
+        "Image_Url":"https://www.google.com/imgres?q=silveroak%20tree%20images&imgurl=https%3A%2F%2Fblogger.googleusercontent.com%2Fimg%2Fb%2FR29vZ2xl%2FAVvXsEhQ_JKoRSqFpNrkPVRV5G613D0_lLKXUCtisu3Q7zb51uhpAiX5yA5c0DH4bNu2FvSuiLpAfWZsgjiZf9iX5HiE-eFtEjFefa92IXKH6-bVCUuW_yzzj1Xqmso4Ow4h222nZz_9vVLBvBc%2Fw1200-h630-p-k-no-nu%2FAustralian%2BSilver%2BOak%2Btree.jpg&imgrefurl=http%3A%2F%2Ftree-species.blogspot.com%2F2008%2F04%2Faustralian-silver-oak-grevillea-robusta.html&docid=bgKlWqEsGRxyaM&tbnid=T7JGtrtrUArjZM&vet=12ahUKEwim-I2rnOGNAxX-zDgGHeMUHpoQM3oECHkQAA..i&w=336&h=448&hcb=2&ved=2ahUKEwim-I2rnOGNAxX-zDgGHeMUHpoQM3oECHkQAA",
+        "Watering":"Consistent and regular watering with well-drained soil.",
+        "Sunlight":"Thrive in full sun (6-8 hours daily)",
+        "Temperature":"68°F to 86°F",
+        "Height":"Up to 75 feet"
+    },
+    {
+        "common_name":"Indian Laburnum",
+        "Category":"Outdoor",
+        "scientific_name":"Cassia fistula",
+        "Description":"It is a medium-sized, deciduous tree native to India and Southeast Asia. It is renowned for its striking, golden-yellow, fragrant flowers that bloom profusely in drooping clusters during the flowering season. The tree typically grows to a height of 8-10 meters and is known for its compound, feather-like leaves with smooth margins. Typically blooms in May and June, but can vary depending on the local climate. The tree is a popular choice for avenue planting due to its beautiful yellow flowers.  The tree is used in herbal medicine, for its ornamental value, and its wood is sometimes used for agricultural implements.",
+        "Image_Url":"https://www.google.com/imgres?q=indianlaburnum%20tree%20images&imgurl=http%3A%2F%2Fgrowbilliontrees.com%2Fcdn%2Fshop%2Farticles%2Fgolden_shower-tree-grow-billion-trees.jpg%3Fv%3D1728392587&imgrefurl=https%3A%2F%2Fgrowbilliontrees.com%2Fblogs%2Ftree-stories%2Fthe-indian-laburnum-tree-a-floral-wonder-and-cultural-heritage&docid=U_DPeBhPLpSrUM&tbnid=gjIQvhP_CW-JHM&vet=12ahUKEwjMwOC9nOGNAxU11DgGHT2hMEIQM3oECBsQAA..i&w=1300&h=866&hcb=2&ved=2ahUKEwjMwOC9nOGNAxU11DgGHT2hMEIQM3oECBsQAA",
+        "Watering":"Requires regular watering, especially during hot periods and the first few years of growth.",
+        "Sunlight":"They need at least 6-8 hours of direct sunlight daily for optimal growth and flowering.",
+        "Temperature":"68°F to 95°F",
+        "Height":"30-40 feet"
+    },
+    {
+        "common_name":"Coral Tree",
+        "Category":"Outdoor",
+        "scientific_name":"Erythrina indica",
+        "Description":"It is a striking, deciduous tree known for its vibrant red flowers and unique characteristics. It's a spreading tree legume native to tropical and subtropical regions, often used ornamentally. The leaves are trifoliate (three leaflets) with petioles (leaf stalks) that can be 2-28 cm long. The pods and other parts of the coral tree have been traditionally used for various medicinal purposes and even as a vegetable.",
+        "Image_Url":"https://www.google.com/imgres?q=coral%20tree%20images&imgurl=https%3A%2F%2Fharvesttotable.com%2Fwp-content%2Fuploads%2F2024%2F02%2FErythrina-bigstock-Close-Up-Of-A-Tree-With-Red-Fl-369409228-2.jpg&imgrefurl=https%3A%2F%2Fharvesttotable.com%2Fhow-to-grow-coral-tree-erythrina%2F&docid=QciTWtvCV0dfFM&tbnid=h-hYx9aOVIJcIM&vet=12ahUKEwi2rtrLnOGNAxXNxzgGHZqhK0cQM3oECBgQAA..i&w=1600&h=1067&hcb=2&ved=2ahUKEwi2rtrLnOGNAxXNxzgGHZqhK0cQM3oECBgQAA",
+        "Watering":"They prefer well-drained soil. Initially, they need regular watering to establish themselves, but once established, they can tolerate dry conditions.",
+        "Sunlight":"At least 6-8 hours of direct sunlight daily",
+        "Temperature":"65-80°F",
+        "Height":"49-82 feet"
+    },
+    {
+        "common_name":"Weigela",
+        "Category":"Outdoor",
+        "scientific_name":"Weigela florida",
+        "Description":"Weigela is a genus of deciduous flowering shrubs in the family Caprifoliaceae, known for their showy, tubular flowers and relatively easy care. These shrubs are native to East Asia and are widely cultivated for their ornamental value, offering vibrant blooms in late spring and early summer, and sometimes later in the season. Weigela species typically have upright or spreading habits, with many varieties available in different sizes and flower colors.",
+        "Image_Url":"https://www.google.com/imgres?q=weigela%20tree%20images&imgurl=https%3A%2F%2Fwww.bhg.com%2Fthmb%2FwoLBO94dKd8AV1QuHQzpoWO4RgI%3D%2F1280x0%2Ffilters%3Ano_upscale()%3Astrip_icc()%2Fweigela-blooms-with-green-and-yellow-leaves-29426c5e-fd8758dda1c44d77a7349cc46d73279c.jpg&imgrefurl=https%3A%2F%2Fwww.bhg.com%2Fgardening%2Fplant-dictionary%2Fshrub%2Fweigela-cardinal-shrub%2F&docid=mCo2tPVr_HCmhM&tbnid=YDve5Y4N9pbHRM&vet=12ahUKEwjunKDjnOGNAxV6hGMGHQ_jD0UQM3oECBgQAA..i&w=1280&h=1906&hcb=2&ved=2ahUKEwjunKDjnOGNAxV6hGMGHQ_jD0UQM3oECBgQAA",
+        "Watering":" Watering should be consistent, especially for newly planted Weigelas, ensuring the top inch or two of soil is moist. Established Weigelas are drought-tolerant and may only need watering during particularly dry periods.",
+        "Sunlight":"Weigelas thrive in full sun or partial shade with at least 4 hours of sunlight per day.",
+        "Temperature":"60°F and 75°F",
+        "Height":"3-16 feet"
+    },
+    {
+        "common_name":"Teak",
+        "Category":"Outdoor",
+        "scientific_name":"Tectona grandis",
+        "Description":"Teak, a majestic hardwood tree, is renowned for its exceptional durability, water resistance, and beautiful wood grain. Native to Southeast Asia, it is a large deciduous tree valued for its strong, oily wood and its ability to withstand the elements. Teak wood is exceptionally strong and resistant to decay and weather extremes. The natural oils in teak make it highly resistant to water damage, making it ideal for outdoor applications. Teak is also used for various purposes, including building poles, fence posts, and musical instruments.",
+        "Image_Url":"https://www.google.com/imgres?q=teak%20tree%20images&imgurl=https%3A%2F%2Fcdn.mos.cms.futurecdn.net%2FgRPmJrjURcvm86qve49qY6.jpg&imgrefurl=https%3A%2F%2Fwww.gardeningknowhow.com%2Fornamental%2Ftrees%2Fteak%2Fteak-tree-uses.htm&docid=65ErIgrEdOe_kM&tbnid=R8vJTrfs7enVgM&vet=12ahUKEwjGzeTynOGNAxWBxDgGHRzNMiQQM3oECBwQAA..i&w=1600&h=1200&hcb=2&ved=2ahUKEwjGzeTynOGNAxWBxDgGHRzNMiQQM3oECBwQAA",
+        "Watering":"Needs moderate watering (every 2 weeks)",
+        "Sunlight":"Requires full sun (6-8 hours daily)",
+        "Temperature":"50°F to 95°F",
+        "Height":"130-160 feet"
+    },
+    {
+        "common_name":"Sandalwood",
+        "Category":"Outdoor",
+        "scientific_name":"Santalum album",
+        "Description":"Also known as East Indian sandalwood, is a valuable tree species prized for its fragrant, aromatic wood and oil. It's a small evergreen tree native to regions like India, Sri Lanka, Indonesia, and Australia. The tree's heartwood, which is yellowish to brown, is highly valued for its distinctive woody, sweet, and balsamic scent, making it a key ingredient in perfumes, incense, and other products.",
+        "Image_Url":"https://www.google.com/imgres?q=sandalwood%20tree%20images&imgurl=http%3A%2F%2Fgreenparadiselive.com%2Fcdn%2Fshop%2Ffiles%2Fred_sandalwoodpan_3_1200x1200.png%3Fv%3D1729404927&imgrefurl=https%3A%2F%2Fgreenparadiselive.com%2Fproducts%2Fgreen-paradise%25C2%25AE-red-sandalwood-plant&docid=obbMcvuvxCxTRM&tbnid=uNANWkQw_EQM_M&vet=12ahUKEwjN5-qCneGNAxV0yTgGHX-pGIMQM3oECGwQAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwjN5-qCneGNAxV0yTgGHX-pGIMQM3oECGwQAA",
+        "Watering":"They need regular watering, especially during dry periods",
+        "Sunlight":"Needs full to partial sunlight throughout the day",
+        "Temperature":"68°F and 86°F",
+        "Height":"Up to 30 feet"
+    },
+    {
+        "common_name":"Durian",
+        "Category":"Outdoor",
+        "scientific_name":"Durio zibenthinus",
+        "Description":"It  is a tropical fruit native to Southeast Asia, known as the King of Fruits for its distinctive strong aroma and creamy, custard-like flesh. It's a popular food in the region, often eaten fresh, but also used in a variety of sweet and savory dishes. Commonly eaten raw, or incorporated into desserts, sauces, and other culinary creations.",
+        "Image_Url":"https://www.google.com/imgres?q=durian%20tree%20images&imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fdurian-farm-agricultural-establishment-that-600nw-2434986173.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Fdurian-tree&docid=2Tq7MNGtWSvrjM&tbnid=RHRBCh9P3afGlM&vet=12ahUKEwjL4ciTneGNAxVU8zgGHWekGlYQM3oECBwQAA..i&w=600&h=400&hcb=2&ved=2ahUKEwjL4ciTneGNAxVU8zgGHWekGlYQM3oECBwQAA",
+        "Watering":"",
+        "Sunlight":"Requires a significant amount of sunlight, with a recommended minimum of 6 hours of direct sunlight daily.",
+        "Temperature":"75°F to 90°F",
+        "Height":"80 to 160 feet"
+    },
+    {
+        "common_name":"Champak",
+        "Category":"Outdoor",
+        "scientific_name":"Michelia champaca",
+        "Description":"Champak is a large, fragrant, evergreen tree in the family Magnoliaceae, formerly known as Michelia champaca. It is native to Southeast Asia and is valued for its beautiful, sweet-scented flowers and its timber, which is used in woodworking. The tree also holds cultural significance in some regions, being associated with festivals and ceremonies. The flowers are fragrant and can be white, yellow, or cream-colored, depending on the variety. The tree is planted as an ornamental tree in gardens and parks for its beautiful flowers and foliage.",
+        "Image_Url":"https://www.google.com/imgres?q=champak%20tree&imgurl=https%3A%2F%2Fbs.plantnet.org%2Fimage%2Fo%2F8f84b6fa643aae45b82482e2102c02866b7ce6a5&imgrefurl=https%3A%2F%2Fearthone.io%2Fplant%2Fmagnolia%2520champaca&docid=hB_Z-Djli1fvVM&tbnid=zFC5jRRVncD9SM&vet=12ahUKEwj9366t4uGNAxU8zTgGHSD9AZcQM3oECFUQAA..i&w=800&h=1422&hcb=2&ved=2ahUKEwj9366t4uGNAxU8zTgGHSD9AZcQM3oECFUQAA",
+        "Watering":"Watering should be done deeply, about once a week, and more frequently during extreme heat to keep the soil consistently moist but not soggy.",
+        "Sunlight":"at least 6-8 hours of direct sunlight daily for optimal growth and flowering.",
+        "Temperature":"68°F to 86°F",
+        "Height":"30 to 50 feet"
+    },
+    {
+        "common_name":"Japanese Maple",
+        "Category":"Outdoor",
+        "scientific_name":"Acer palmatum",
+        "Description":"It  is a small, deciduous tree or shrub celebrated for its beautiful foliage, graceful form, and vibrant autumn colors. It's a popular choice for both traditional Japanese gardens and modern suburban landscapes, offering a variety of attractive cultivars with different leaf shapes and colors. Leaves are typically palmate (hand-shaped) with varying degrees of lobing and can range from green to red, purple, or bronze throughout the season.",
+        "Image_Url":"https://www.google.com/imgres?q=japanesemaple%20tree&imgurl=https%3A%2F%2Fstatic.themarthablog.com%2F2024%2F11%2FPXL_20241029_145712989.MP_-scaled.jpg&imgrefurl=https%3A%2F%2Fwww.themarthablog.com%2F2024%2F11%2Fplanting-japanese-maples.html&docid=Kc1aW0zcF2cpLM&tbnid=1yTG8sAyhypXzM&vet=12ahUKEwiVoZHN4uGNAxXRyzgGHUJcLGUQM3oECDQQAA..i&w=2188&h=2560&hcb=2&ved=2ahUKEwiVoZHN4uGNAxXRyzgGHUJcLGUQM3oECDQQAA",
+        "Watering":"consistent watering, especially during dry periods and for young trees. They prefer well-drained soil that stays moist, but not soggy.",
+        "Sunlight":"Japanese maples generally thrive with partial shade.",
+        "Temperature":"60°F to 75°F",
+        "Height":"6 to 30 feet"
+    },
+    {
+        "common_name":"Dogwood",
+        "Category":"Outdoor",
+        "scientific_name":"Cornus spp.",
+        "Description":"They are a diverse group of shrubs and small trees, often prized for their beautiful spring blooms and attractive fall foliage. They are known for their showy white, pink, or red petal-like bracts that surround clusters of tiny, insignificant flowers. Dogwoods typically have oval, green leaves that turn red or purple in the fall. Their fruits are drupes, often brightly colored and a food source for birds and mammals. Dogwoods produce drupes, often bright red or blue, which are attractive to wildlife.",
+        "Image_Url":"https://www.google.com/imgres?q=dogwood%20tree&imgurl=https%3A%2F%2Fcdn.shopify.com%2Fs%2Ffiles%2F1%2F0654%2F9130%2F4688%2Ffiles%2Fdogwoodtree_480x480.jpg%3Fv%3D1706889575&imgrefurl=https%3A%2F%2Fwww.arundelarboretum.co.uk%2Fcollections%2Fcornus-trees&docid=CzSMfuggsg3cZM&tbnid=pSfzL4IzlZdArM&vet=12ahUKEwi1xNXr4uGNAxVJ-DgGHZ6GJAgQM3oECC4QAA..i&w=480&h=402&hcb=2&ved=2ahUKEwi1xNXr4uGNAxVJ-DgGHZ6GJAgQM3oECC4QAA",
+        "Watering":"Dogwoods prefer moist but not waterlogged soil.",
+        "Sunlight":"They benefit from morning sun and afternoon shade.",
+        "Temperature":"60°F to 75°F",
+        "Height":"30 to 40 feet"
+    },
+    {
+        "common_name":"Plumeria",
+        "Category":"Outdoor",
+        "scientific_name":"Plumeria spp.",
+        "Description":"Plumeria, also known as Frangipani, is a genus of flowering plants primarily found in tropical and subtropical regions. These plants, typically small trees or shrubs, are known for their fragrant, often clustered flowers in various shades of white, yellow, pink, and red. Plumerias are popular ornamental plants, often used in gardens and landscapes. Most Plumeria species are deciduous, losing their leaves during winter or dry seasons. Some varieties of Plumeria obtusa can be evergreen. Plumeria rubra, the most common species, is known to be an invasive species in some areas, easily spreading by seed and vegetative cuttings.",
+        "Image_Url":"https://www.google.com/imgres?q=plumeria%20tree&imgurl=https%3A%2F%2Flalitenterprise.com%2Fcdn%2Fshop%2Ffiles%2FPlumeria_Alba_Plant_3.webp%3Fv%3D1741608368%26width%3D1445&imgrefurl=https%3A%2F%2Flalitenterprise.com%2Fproducts%2Fplumeria-alba-white-frangipani-plant&docid=tL0w48E3L31rFM&tbnid=m7SZZM3VnXRTcM&vet=12ahUKEwj2mpGQ4-GNAxUKzqACHWp1A4EQM3oECB4QAA..i&w=1280&h=1280&hcb=2&ved=2ahUKEwj2mpGQ4-GNAxUKzqACHWp1A4EQM3oECB4QAA",
+        "Watering":"Watering should be done regularly, allowing the soil to dry slightly between waterings to prevent root rot.",
+        "Sunlight":"They need at least 6 hours of direct sunlight daily.",
+        "Temperature":"65°F to 85°F",
+        "Height":"10-25 feet"
+    },
+    {
+        "common_name":"Rosewood",
+        "Category":"Outdoor",
+        "scientific_name":"Dalbergia latifolia",
+        "Description":"Rosewood is a valuable hardwood, prized for its rich color, strength, and durability. It's a popular choice for furniture, musical instruments, and decorative veneers. Several species of trees, notably within the Dalbergia genus, produce wood referred to as rosewood. Rosewood is a protected species worldwide due to overexploitation and illegal logging.",
+        "Image_Url":"https://www.google.com/imgres?q=rosewood%20tree&imgurl=https%3A%2F%2Fassets-news.housing.com%2Fnews%2Fwp-content%2Fuploads%2F2023%2F01%2F25020007%2F%25E1%25B1%25A5%25E1%25B1%25A4%25E1%25B1%25A5%25E1%25B1%25A6%25E1%25B1%25A9-%25E1%25B1%25B0%25E1%25B1%259F%25E1%25B1%25A8%25E1%25B1%25AE-_-%25E0%25AC%25B6%25E0%25AC%25BF%25E0%25AC%25B6%25E0%25AD%2581-%25E0%25AC%2597%25E0%25AC%259B-_-Indian-Rosewood.jpg&imgrefurl=https%3A%2F%2Fhousing.com%2Fnews%2Fhow-to-grow-and-care-for-rosewood-trees%2F&docid=qi8E11_kkVBhTM&tbnid=faLt5Ot8fKsGkM&vet=12ahUKEwiNtNmq4-GNAxUW7zgGHc0QN1AQM3oECGcQAA..i&w=867&h=1156&hcb=2&ved=2ahUKEwiNtNmq4-GNAxUW7zgGHc0QN1AQM3oECGcQAA",
+        "Watering":"Watering should be regular but not excessive, allowing the top inch of soil to dry out between waterings.",
+        "Sunlight":"They thrive in full sun, ideally receiving at least 6 hours of direct sunlight daily",
+        "Temperature":"68°F to 95°F",
+        "Height":"Up to 100 feet"
+    },
+    {
+        "common_name":"Rubber Tree",
+        "Category":"Outdoor",
+        "scientific_name":"Hevea brasiliensis",
+        "Description":"It is a fast-growing, tall tree native to South America that is the primary source of natural rubber. It can reach heights of 100-125 feet in the wild, but in plantations, it's usually smaller due to latex production. The tree has a distinctive milky white sap called latex, which is harvested by tapping the trunk and collecting the sap in buckets. The latex is then processed to create natural rubber, used in a wide variety of products. The tree's laticiferous system, a network of vessels within the bark, produces the milky latex that is the source of natural rubber. The latex is collected from the tapped trunk, then processed to separate the rubber from the other components. The rubber is used in various products, including tires, shoe soles, surgical gloves, and more.",
+        "Image_Url":"https://www.google.com/imgres?q=rubber%20tree&imgurl=https%3A%2F%2Fcdn.britannica.com%2F34%2F5934-050-E0273B5B%2FLatex-trees-rubber-plantation-Malaysia-Kuala-Lumpur.jpg&imgrefurl=https%3A%2F%2Fwww.britannica.com%2Fplant%2Frubber-tree&docid=YIXVMeAPvUXp_M&tbnid=nrtfCEByYGLgoM&vet=12ahUKEwjFi5rB4-GNAxVXzzgGHVjCE2QQM3oECB4QAA..i&w=1078&h=1600&hcb=2&ved=2ahUKEwjFi5rB4-GNAxVXzzgGHVjCE2QQM3oECB4QAA",
+        "Watering":"They require regular watering, but ot overwatering.",
+        "Sunlight":"They can tolerate lower light conditions but will grow stronger in brighter environments.",
+        "Temperature":" 60-80°F",
+        "Height":"Up tp 360 inches"
+    },
+    {
+        "common_name":"Coconut",
+        "Category":"Outdoor",
+        "scientific_name":"Cocos nucifera",
+        "Description":"a tall, single-trunked palm tree with a graceful, feathery crown of pinnate leaves. It is a vital part of tropical ecosystems and offers a wide range of uses, including food, drink, and building materials. The trunk, leaves, and husks can be used for construction, roofing, and other purposes. Coconut palms play a role in coastal erosion control and are important components of coastal ecosystems. In essence, the coconut palm is a versatile and ecologically important tree that provides a variety of resources for humans and plays a role in tropical ecosystems.",
+        "Image_Url":"https://www.google.com/imgres?q=coconut%20tree&imgurl=https%3A%2F%2Fwww.toothmountainnursery.com%2Fwp-content%2Fuploads%2F2020%2F03%2FCoconut-palm.jpg&imgrefurl=https%3A%2F%2Fwww.toothmountainnursery.com%2Fproduct%2Fcoconut-palm-cocos-nucifera%2F&docid=tYW4gTwgsLeAkM&tbnid=q22QYjKZlPucbM&vet=12ahUKEwiXqZ3T4-GNAxU5zjgGHf7FH6wQM3oECGgQAA..i&w=1000&h=1000&hcb=2&ved=2ahUKEwiXqZ3T4-GNAxU5zjgGHf7FH6wQM3oECGgQAA",
+        "Watering":"They need consistent moist soil, but not waterlogged.",
+        "Sunlight":"Coconut trees thrive in warm, sunny conditions with plenty of sunlight.",
+        "Temperature":"70°F and 95°F",
+        "Height":"720-1200 inches"
+    },
+    {
+        "common_name":"Apple Tree",
+        "Category":"Outdoor",
+        "scientific_name":"Malus domestica",
+        "Description":"a deciduous tree belonging to the Rosaceae family, known for producing the delicious fruit we call the apple. These trees typically reach a height of 10-25 feet and have a broad, twiggy crown with oval-shaped leaves that have serrated edges. In the spring, they produce showy white or pink blossoms that are pollinated by insects, leading to the development of fruit in late summer or fall. There are thousands of different apple cultivars, each with its own unique characteristics. Some varieties are self-pollinating, while others require cross-pollination between different apple trees or crabapples.",
+        "Image_Url":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNgx_kg89pyrXoy1HofzdVQdfPbDbGt9rCyA&s",
+        "Watering":"Watering should be done deeply once a week, adjusting for rainfall to prevent over or underwatering.",
+        "Sunlight":"at least 6-8 hours of direct sunlight daily for optimal growth and fruiting.",
+        "Temperature":"65°F to 80°F",
+        "Height":"96-360 inches"
+    },
+    {
+        "common_name":"Peach",
+        "Category":"Outdoor",
+        "scientific_name":"Prunus persica",
+        "Description":"a deciduous tree known for its sweet, juicy fruit. They are relatively short trees, typically reaching 3-4 meters in height, with slender, supple branches. There are numerous peach varieties, with some being freestones (the flesh separates easily from the pit) and others being clingstones (the flesh sticks to the pit). Nectarines, a variety of peach without the fuzz on the skin, are also common.",
+        "Image_Url":"https://harvesttotable.com/wp-content/uploads/2009/08/Peach-tree1.jpg",
+        "Watering":"Watering should aim for a good soak, ensuring the soil remains consistently moist several inches down, but avoiding waterlogging. ",
+        "Sunlight":"They need at least 6 hours of direct sunlight daily, ideally 8 or more",
+        "Temperature":"70°F to 85°F",
+        "Height":"48-300 inches"
+    },
+    {
+        "common_name":"Acacia",
+        "Category":"Outdoor",
+        "scientific_name":"Acacia auriculiformis",
+        "Description":"a diverse group of shrubs and trees known for their distinctive bipinnate leaves, often resembling ferns or feathers. Many species have thorns, and the leaves may be reduced to flattened structures called phyllodes. They are native to various tropical and subtropical regions, with prominent populations in Australia (where they're called wattles) and Africa. Acacias play important roles in ecosystems, providing food and shelter for wildlife and helping to stabilize soils. Acacias have various uses, including timber, tannin extraction, gum arabic production (from the bark), and soil stabilization.",
+        "Image_Url":"https://www.google.com/imgres?q=acacia%20tree&imgurl=https%3A%2F%2Fwww.planetnatural.com%2Fwp-content%2Fuploads%2F2023%2F10%2FSavanna-with-an-acacia-tree.jpg&imgrefurl=https%3A%2F%2Fwww.planetnatural.com%2Facacia-tree%2F&docid=ios_KUd3PzDM5M&tbnid=vVx5h3f6-n9IXM&vet=12ahUKEwiI7eOqiuGNAxUG2jgGHeiXHgUQM3oECHsQAA..i&w=1600&h=900&hcb=2&ved=2ahUKEwiI7eOqiuGNAxUG2jgGHeiXHgUQM3oECHsQAA",
+        "Watering":"They are drought-tolerant once established, requiring infrequent, deep watering. Young saplings may need more frequent watering, especially during establishment.",
+        "Sunlight":"Acacias generally thrive in full sun (at least 6-8 hours of direct sunlight daily)",
+        "Temperature":"70°F to 100°F",
+        "Height":"192-480 inches"
+    },
+    {
+        "common_name":"Mahogany",
+        "Category":"Outdoor",
+        "scientific_name":"Swietenia mahagoni",
+        "Description":"Mahogany is a hardwood timber known for its rich, reddish-brown color and durability, primarily sourced from trees within the Swietenia genus. It's prized for its beauty, stability, and resistance to rot and insect damage, making it a popular choice for furniture, musical instruments, and boat building. Mahogany is relatively stable, meaning it doesn't shrink or warp much in response to changes in humidity. It's a popular tonewood, particularly for guitar necks and bodies. The primary mahogany species are Swietenia macrophylla (big-leaf mahogany), Swietenia humilis (Mexican mahogany), and Swietenia mahagoni (small-leaved mahogany).",
+        "Image_Url":"https://www.google.com/imgres?q=mahogany%20tree&imgurl=https%3A%2F%2Fwww.saharanpurnursery.in%2Fcdn%2Fshop%2Ffiles%2FIMG_9365_1200x1200.jpg%3Fv%3D1733673858&imgrefurl=https%3A%2F%2Fwww.saharanpurnursery.in%2Fproducts%2Fbuy-mahogany-tree-or-african-mahogany-in-wholesale-from-saharanpur-nursery&docid=RbdN0wf2507p3M&tbnid=fYGRs1tkkZcnwM&vet=12ahUKEwiHq_WfiuGNAxXbRCoJHY7XE_IQM3oECG0QAA..i&w=1200&h=1200&hcb=2&ved=2ahUKEwiHq_WfiuGNAxXbRCoJHY7XE_IQM3oECG0QAA",
+        "Watering":"Requires consistent watering, but not to the point of waterlogging. They need well-draining soil",
+        "Sunlight":"Mahogany plants generally prefer medium to bright, indirect sunlight",
+        "Temperature":"70°F to 95°F",
+        "Height":"480-720 inches"
+    },
+    {
+        "common_name":"Cashew",
+        "Category":"Outdoor",
+        "scientific_name":"Anacardium occidentale",
+        "Description":"Cashews are kidney-shaped nuts that grow within a fleshy fruit called the cashew apple. They are the seed of the cashew tree and are a popular snack and ingredient in various cuisines. Cashews are a good source of magnesium, protein, copper, and other essential nutrients. They are also high in unsaturated fats. Cashews are widely eaten as a snack, either raw, roasted, salted, or flavored. They are also used in baked goods, confectionery, and various cuisines.",
+        "Image_Url":"https://www.google.com/imgres?q=cashew%20tree&imgurl=https%3A%2F%2Frukminim2.flixcart.com%2Fimage%2F850%2F1000%2Fxif0q%2Fplant-sapling%2Fe%2Fo%2Ff%2Fperennial-no-yes-cashew-nuts-plant-03-1-plastic-bag-online-plant-original-imaggexhpvgvhg3n.jpeg%3Fq%3D20%26crop%3Dfalse&imgrefurl=https%3A%2F%2Fwww.flipkart.com%2Fgreenyon-cashew-plant%2Fp%2Fitm5e5bd8c2a2f0e%3Fpid%3DPSGGYR3725XFEMZZ%26lid%3DLSTPSGGYR3725XFEMZZPN05EO%26marketplace%3DFLIPKART%26cmpid%3Dcontent_plant-sapling_8965229628_gmc&docid=5xHYA47-fcHNLM&tbnid=vZXqjbHYrv5JPM&vet=12ahUKEwiK5JmQiuGNAxWBjWMGHbFXKUoQM3oECBgQAA..i&w=850&h=850&hcb=2&ved=2ahUKEwiK5JmQiuGNAxWBjWMGHbFXKUoQM3oECBgQAA",
+        "Watering":"Requires deep watering every 1-2 weeks. Soil should be well drained, ensuring the moisture and avoiding waterlogging.",
+        "Sunlight":"6-8 hours of direct sunlight daily for optimal growth.",
+        "Temperature":"68°F to 86°F",
+        "Height":"40 to 80 inches"
+    },
+    {
+        "common_name":"Champa",
+        "Category":"Outdoor",
+        "scientific_name":"Syzigium jambos",
+        "Description":"It is a popular flowering tree known for its fragrant, yellow-orange blossoms and its use in religious and cultural practices in India and Southeast Asia. It's also a valuable tree in agroforestry, offering benefits like nitrogen fixation and soil improvement. Used for worship in temples, fragrance in incense and perfumes, traditional medicine, and as an ornamental plant. The flowers are used for adorning idols, in garlands, and as a fragrance in religious settings.",
+        "Image_Url":"https://www.google.com/imgres?q=champatree&imgurl=https%3A%2F%2Fdukaan.b-cdn.net%2F700x700%2Fwebp%2Fmedia%2F9d079bfb-e0ed-48ff-b835-1cdd8cc97ad8.png&imgrefurl=https%3A%2F%2Fonlineplantscart.in%2Fproducts%2Fchampa-plumeria-plant-736e8c07d7&docid=UpTSkeBb7qSP-M&tbnid=qZLn7b9TK1HbfM&vet=12ahUKEwiP9LeDiuGNAxUkyDgGHYRSA9YQM3oECBsQAA..i&w=561&h=700&hcb=2&ved=2ahUKEwiP9LeDiuGNAxUkyDgGHYRSA9YQM3oECBsQAA",
+        "Watering":"Watering should be done once the topsoil is dry, ensuring good drainage to prevent root rot.",
+        "Sunlight":"They need at least 6-8 hours of direct sunlight daily for optimal flowering and healthy growth.",
+        "Temperature":"90°F to 95°F",
+        "Height":"18-24 inches"
+    },
+    {
+        "common_name":"Rudraksham",
+        "Category":"Outdoor",
+        "scientific_name":"Elaeocarpus granitrus",
+        "Description":"Rudraksha beads, derived from the fruit of the Elaeocarpus ganitrus tree, are revered in Hinduism as sacred and beneficial. They are known for their spiritual and healing properties, with each Mukhi (face) representing a unique deity and benefit. Rudraksha beads are often worn as malas (prayer beads) for chanting mantras, symbolizing connection to the divine and offering protection.",
+        "Image_Url":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fexoticflora.in%2Fproducts%2Frudraksha-avenue-trees&psig=AOvVaw1voU3i5mQbl3YXGyC3m_pV&ust=1749446412713000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjou_aJ4Y0DFQAAAAAdAAAAABAE",
+        "Watering":"Provide consistent watering, ensuring the soil stays moist but not waterlogged.",
+        "Sunlight":"They thrive in ample light, ideally 6-8 hours daily. Young seedlings benefit from partial shade initially, gradually transitioning to full sun as they mature.",
+        "Temperature":"68°F-86°F",
+        "Height":"12-24 inches"
     }
 ]
