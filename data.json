@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "common_name":"Aloe Vera",
         "Category":"Indoor",
         "scientific_name":"Aloe barbadensis miller",
@@ -11,6 +12,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 2,
         "common_name":"Anthurium",
         "Category":"Indoor",
         "scientific_name":"Anthurium",
@@ -22,6 +24,7 @@
         "Height":"12-18 inches"
     },
     {
+        "id": 3,
         "common_name":"Areca Palm",
         "Category":"Indoor",
         "scientific_name":"Dypsis lutescens",
@@ -33,6 +36,7 @@
         "Height":"48 to 96 inches"
     },
     {
+        "id": 4,
         "common_name":"Asparagus Fern",
         "Category":"Indoor",
         "scientific_name":"Asparagus setaceus",
@@ -44,6 +48,7 @@
         "Height":"up to 36 inches"
     },
     {
+        "id": 5,
         "common_name":"Azalea",
         "Category":"Indoor",
         "scientific_name":"Rhododendron",
@@ -55,6 +60,7 @@
         "Height":"12-48 inches"
     },
     {
+        "id": 6,
         "common_name":"Baby rubber plant ",
         "Category":"Indoor",
         "scientific_name":"Peperomia obtusifolia",
@@ -66,6 +72,7 @@
         "Height":"6-12 inches"
     },
     {
+        "id": 7,
         "common_name":"Basil",
         "Category":"Indoor",
         "scientific_name":"Ocimum Sanctum",
@@ -77,6 +84,7 @@
         "Height":"12-24 inches"
     },
     {
+        "id": 8,
         "common_name":"Begonia",
         "Category":"Indoor",
         "scientific_name":"Begonia",
@@ -88,6 +96,7 @@
         "Height":"8-24 inches"
     },
     {
+        "id": 9,
         "common_name":"Boston Fern",
         "Category":"Indoor",
         "scientific_name":"Nephrolepis exalta",
@@ -99,6 +108,7 @@
         "Height":"6-60 inches"
     },
     {
+        "id": 10,
         "common_name":"Bunny ear cactus",
         "Category":"Indoor",
         "scientific_name":"Opuntia microdasys",
@@ -110,6 +120,7 @@
         "Height":"12-24 inches"
     },
     {
+        "id": 11,
         "common_name":"Calathea",
         "Category":"Indoor",
         "scientific_name":"Calathea",
@@ -121,6 +132,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 12,
         "common_name":"Chinese Evergreen",
         "Category":"Indoor",
         "scientific_name":"Aglaonema",
@@ -132,6 +144,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 13,
         "common_name":"Corn/Cornstalk Plant",
         "Category":"Indoor",
         "scientific_name":"Dracaena Fragrans",
@@ -143,6 +156,7 @@
         "Height":"Up to 24 inches"
     },
     {
+        "id": 14,
         "common_name":"Croton",
         "Category":"Indoor",
         "scientific_name":"Codiaeum variegatum",
@@ -154,6 +168,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 15,
         "common_name":"Dieffenbachia",
         "Category":"Indoor",
         "scientific_name":"Dieffenbachia seguine",
@@ -165,6 +180,7 @@
         "Height":"36-72 inches"
     },
     {
+        "id": 16,
         "common_name":"Donkey Tail",
         "Category":"Indoor",
         "scientific_name":"Sedum morganianum",
@@ -176,6 +192,7 @@
         "Height":"6-12 inches"
     },
     {
+        "id": 17,
         "common_name":"Dragon Tree/Marginata",
         "Category":"Indoor",
         "scientific_name":"Dracaena Draco",
@@ -187,6 +204,7 @@
         "Height":"Up tp 240 inches"
     },
     {
+        "id": 18,
         "common_name":"Dwarf Umbrella Plant",
         "Category":"Indoor",
         "scientific_name":"Schefflera arboricola",
@@ -198,6 +216,7 @@
         "Height":"24-36 inches"
     },
     {
+        "id": 19,
         "common_name":"Ferns",
         "Category":"Indoor",
         "scientific_name":"Tracheophyta",
@@ -209,6 +228,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 20,
         "common_name":"Ficus A1 Gold",
         "Category":"Indoor",
         "scientific_name":"Ficus Alii",
@@ -220,6 +240,7 @@
         "Height":"12-18 inches"
     },
     {
+        "id": 21,
         "common_name":"Fiddle leaf fig plant",
         "Category":"Indoor",
         "scientific_name":"Ficus lyrata",
@@ -231,6 +252,7 @@
         "Height":"Up to 120 inches"
     },
     {
+        "id": 22,
         "common_name":"Gerbera Daisy",
         "Category":"Indoor",
         "scientific_name":"Gerbera",
@@ -242,6 +264,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 23,
         "common_name":"Golden Pothos",
         "Category":"Indoor",
         "scientific_name":"Epipremum aureum",
@@ -253,6 +276,7 @@
         "Height":"72-96 inches"
     },
     {
+        "id": 24,
         "common_name":"Grafted ficus bonsai",
         "Category":"Indoor",
         "scientific_name":"Ficus microcarpa",
@@ -264,6 +288,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 104,
         "common_name":"Grape Ivy",
         "Category":"Indoor",
         "scientific_name":"Cissus rhombofolia",
@@ -275,6 +300,7 @@
         "Height":"Up tp 18 inches"
     },
     {
+        "id": 25,
         "common_name":"Heart-leaf Philodendron",
         "Category":"Indoor",
         "scientific_name":"Philodendron hederaceum",
@@ -286,6 +312,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 26,
         "common_name":"Indian Basil",
         "Category":"Indoor",
         "scientific_name":"Ocimum tenuiflorum",
@@ -297,6 +324,7 @@
         "Height":"12-24 inches"
     },
     {
+        "id": 27,
         "common_name":"Jade Plant",
         "Category":"Indoor",
         "scientific_name":"Crassula Ovata",
@@ -308,6 +336,7 @@
         "Height":"36-72 inches"
     },
     {
+        "id": 28,
         "common_name":"Janet Craig",
         "Category":"Indoor",
         "scientific_name":"Dracena deremensis",
@@ -319,6 +348,7 @@
         "Height":"72-120 inches"
     },
     {
+        "id": 29,
         "common_name":"Kalanchoe",
         "Category":"Indoor",
         "scientific_name":"Kalanchoe",
@@ -330,6 +360,7 @@
         "Height":"6-18 inches"
     },
     {
+        "id": 30,
         "common_name":"Kentia Palm",
         "Category":"Indoor",
         "scientific_name":"Howea forsteriana",
@@ -341,6 +372,7 @@
         "Height":"60-120 inches"
     },
     {
+        "id": 31,
         "common_name":"Lady Palm",
         "Category":"Indoor",
         "scientific_name":"Raphis excelsa",
@@ -352,6 +384,7 @@
         "Height":"48-72 inches"
     },
     {
+        "id": 32,
         "common_name":"lady's Slipper Orchid",
         "Category":"Indoor",
         "scientific_name":"Cypripediodeae",
@@ -363,6 +396,7 @@
         "Height":""
     },
     {
+        "id": 33,
         "common_name":"Lavender",
         "Category":"Indoor",
         "scientific_name":"Lavandula",
@@ -374,6 +408,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 34,
         "common_name":"Lemon Button Fern",
         "Category":"Indoor",
         "scientific_name":"Nephrolepis cordifolia",
@@ -385,6 +420,7 @@
         "Height":"12-18 inches"
     },
     {
+        "id": 35,
         "common_name":"Lucky Bamboo Plant",
         "Category":"Indoor",
         "scientific_name":"Dracaena sanderiana",
@@ -396,6 +432,7 @@
         "Height":"12-60 inches"
     },
     {
+        "id": 36,
         "common_name":"Money Plant",
         "Category":"Indoor",
         "scientific_name":"Epipremnum aureum",
@@ -407,6 +444,7 @@
         "Height":"8-12 inches"
     },
     {
+        "id": 37,
         "common_name":"Mums",
         "Category":"Indoor",
         "scientific_name":"Chrysanthemum sp./Chrysanthemum morifolium",
@@ -418,6 +456,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 38,
         "common_name":"Paddle Plant",
         "Category":"Indoor",
         "scientific_name":"Kalanchoe",
@@ -429,6 +468,7 @@
         "Height":"12-18 inches"
     },
     {
+        "id": 39,
         "common_name":"Peace Lily",
         "Category":"Indoor",
         "scientific_name":"Spathiphyllum Wallisii",
@@ -440,6 +480,7 @@
         "Height":"12-48 inches"
     },
     {
+        "id": 40,
         "common_name":"Peperomia",
         "Category":"Indoor",
         "scientific_name":"Peperomia",
@@ -451,6 +492,7 @@
         "Height":"6-12 inches"
     },
     {
+        "id": 41,
         "common_name":"Ponytail Palm",
         "Category":"Indoor",
         "scientific_name":"Beaucarnea recurvata",
@@ -462,6 +504,7 @@
         "Height":"12-36 inches"
     },
     {
+        "id": 42,
         "common_name":"Pothos",
         "Category":"Indoor",
         "scientific_name":"Epipremnum aureum",
@@ -473,6 +516,7 @@
         "Height":"12-24 inches"
     },
     {
+        "id": 43,
         "common_name":"Prayer Plant",
         "Category":"Indoor",
         "scientific_name":"Maranta leuconeura",
@@ -484,6 +528,7 @@
         "Height":"6-18 inches"
     },
     {
+        "id": 44,
         "common_name":"Pygmy date/Miniature date palm Plant",
         "Category":"Indoor",
         "scientific_name":"Phoenix roebelenii",
@@ -495,6 +540,7 @@
         "Height":"72-144 inches"
     },
     {
+        "id": 45,
         "common_name":"Queensland Umbrella",
         "Category":"Indoor",
         "scientific_name":"Schefflera actinophylla",
@@ -506,6 +552,7 @@
         "Height":"Up tp 31.5 inches"
     },
     {
+        "id": 46,
         "common_name":"Rubber Plant",
         "Category":"Indoor",
         "scientific_name":"Ficus elastica",
@@ -517,6 +564,7 @@
         "Height":"72-120 inches"
     },
     {
+        "id": 47,
         "common_name":"Snake Plant",
         "Category":"Indoor",
         "scientific_name":"Dracaena trifasciata",
@@ -528,6 +576,7 @@
         "Height":"6 to 12 inches"
     },
     {
+        "id": 48,
         "common_name":"Spider Plant",
         "Category":"Indoor",
         "scientific_name":"Chlorophytum cosmosum",
@@ -539,6 +588,7 @@
         "Height":"12 to 18 inches"
     },
     {
+        "id": 49,
         "common_name":"String of Pearl",
         "Category":"Indoor",
         "scientific_name":"Senecio rowleyanus",
@@ -550,6 +600,7 @@
         "Height":"Up to 36 inches"
     },
     {
+        "id": 50,
         "common_name":"Warneck Dracaena",
         "Category":"Indoor",
         "scientific_name":"Dracaena deremensis",
@@ -561,6 +612,7 @@
         "Height":"24-60 inches"
     },
     {
+        "id": 51,
         "common_name":"Weeping fig",
         "Category":"Indoor",
         "scientific_name":"Ficus Benjamina",
@@ -572,6 +624,7 @@
         "Height":"36 to 72 inches"
     },
     {
+        "id": 52,
         "common_name":"Mango ",
         "Category":"Outdoor",
         "scientific_name":"Mangifera indica",
@@ -583,6 +636,7 @@
         "Height":"Up to 100 feet"
     },
     {
+        "id": 53,
         "common_name":"Guava",
         "Category":"Outdoor",
         "scientific_name":"Psidium guajava",
@@ -594,6 +648,7 @@
         "Height":"Up to 20 feet"
     },
     {
+        "id": 54,
         "common_name":"Papaya",
         "Category":"Outdoor",
         "scientific_name":"Carica papaya",
@@ -605,6 +660,7 @@
         "Height":"20-30 feet"
     },
     {
+        "id": 55,
         "common_name":"Amla/Indian Gooseberry",
         "Category":"Outdoor",
         "scientific_name":"Emblica officinalis",
@@ -616,6 +672,7 @@
         "Height":"26 to 59 feet"
     },
     {
+        "id": 56,
         "common_name":"Jamun/Indian Blackberry",
         "Category":"Outdoor",
         "scientific_name":"Syzgium cumini",
@@ -627,6 +684,7 @@
         "Height":"30 to 50 fee"
     },
     {
+        "id": 57,
         "common_name":"Ber/Indian Jujube",
         "Category":"Outdoor",
         "scientific_name":"Ziziphus mauritiana",
@@ -638,6 +696,7 @@
         "Height":"Up to 26 feet"
     },
     {
+        "id": 58,
         "common_name":"Pomegranate",
         "Category":"Outdoor",
         "scientific_name":"Punica granatum",
@@ -649,6 +708,7 @@
         "Height":"10-12 feet"
     },
     {
+        "id": 59,
         "common_name":"Orange",
         "Category":"Outdoor",
         "scientific_name":"Citrus sinensis",
@@ -660,6 +720,7 @@
         "Height":"30 to 33 feet"
     },
     {
+        "id": 60,
         "common_name":"Lemon",
         "Category":"Outdoor",
         "scientific_name":"Citrus limon",
@@ -672,6 +733,7 @@
     },
 
     {
+        "id": 61,
         "common_name":"Jackfruit",
         "Category":"Outdoor",
         "scientific_name":"Artocarpus heterophyllus",
@@ -683,6 +745,7 @@
         "Height":"30-70 feet"
     },
     {
+        "id": 62,
         "common_name":"Banana",
         "Category":"Outdoor",
         "scientific_name":"Musa paradisiaca",
@@ -694,6 +757,7 @@
         "Height":"10 to 20 feet"
     },
     {
+        "id": 63,
         "common_name":"Watermelon",
         "Category":"Outdoor",
         "scientific_name":"Citrullus lanatus",
@@ -705,6 +769,7 @@
         "Height":"4-8 inches"
     },
     {
+        "id": 64,
         "common_name":"Grapes",
         "Category":"Outdoor",
         "scientific_name":"Vitis vinifera",
@@ -716,6 +781,7 @@
         "Height":"2-4 feet"
     },
     {
+        "id": 65,
         "common_name":"Almond",
         "Category":"Outdoor",
         "scientific_name":"Prunus amygdalus",
@@ -727,6 +793,7 @@
         "Height":"10 to 25 feet"
     },
     {
+        "id": 66,
         "common_name":"Plum",
         "Category":"Outdoor",
         "scientific_name":"Prunus domestica",
@@ -738,6 +805,7 @@
         "Height":"15-20 feet"
     },
     {
+        "id": 67,
         "common_name":"Cherry",
         "Category":"Outdoor",
         "scientific_name":"Prunus avium",
@@ -749,6 +817,7 @@
         "Height":"30-50 feet"
     },
     {
+        "id": 68,
         "common_name":"Banyan",
         "Category":"Outdoor",
         "scientific_name":"Ficus benghalensis",
@@ -760,6 +829,7 @@
         "Height":"Up to 100 feet"
     },
     {
+        "id": 69,
         "common_name":"Neem",
         "Category":"Outdoor",
         "scientific_name":"Azadirachta indica",
@@ -771,6 +841,7 @@
         "Height":"49-98 feet"
     },
     {
+        "id": 70,
         "common_name":"Siris Tree",
         "Category":"Outdoor",
         "scientific_name":"Albizzia lebbek",
@@ -782,6 +853,7 @@
         "Height":"15-30 feet"
     },
     {
+        "id": 71,
         "common_name":"Gulmohar Tree",
         "Category":"Outdoor",
         "scientific_name":"Delonix regia",
@@ -793,6 +865,7 @@
         "Height":"33-39 feet"
     },
     {
+        "id": 72,
         "common_name":"Jacaranda",
         "Category":"Outdoor",
         "scientific_name":"Jacaranda mimosofolia",
@@ -804,6 +877,7 @@
         "Height":"25-50 feet"
     },
     {
+        "id": 73,
         "common_name":"Ashoka Tree",
         "Category":"Outdoor",
         "scientific_name":"Saraka indica",
@@ -815,6 +889,7 @@
         "Height":"33-39 feet"
     },
     {
+        "id": 74,
         "common_name":"Golden Shower Tree",
         "Category":"Outdoor",
         "scientific_name":"Casia Fistula",
@@ -826,6 +901,7 @@
         "Height":"30 to 40 feet"
     },
     {
+        "id": 75,
         "common_name":"Karanj Tree",
         "Category":"Outdoor",
         "scientific_name":"Pongamia pinnata",
@@ -837,6 +913,7 @@
         "Height":"49-82 feet"
     },
     {
+        "id": 76,
         "common_name":"Eucalyptus",
         "Category":"Outdoor",
         "scientific_name":"Eucalyptus spp.",
@@ -848,6 +925,7 @@
         "Height":"Over 200 feet"
     },
     {
+        "id": 77,
         "common_name":"Bamboo",
         "Category":"Outdoor",
         "scientific_name":"Bambusa spp.",
@@ -859,6 +937,7 @@
         "Height":"Up to 75 feet or more"
     },
     {
+        "id": 78,
         "common_name":"Rose",
         "Category":"Outdoor",
         "scientific_name":"Rosa spp.",
@@ -870,6 +949,7 @@
         "Height":"Dwarf varieties: 8 inches. Climbing varieties: Up to 50 feet"
     },
     {
+        "id": 79,
         "common_name":"Hibiscus",
         "Category":"Outdoor",
         "scientific_name":"Hibiscus spp.",
@@ -881,6 +961,7 @@
         "Height":"3-8 feet"
     },
     {
+        "id": 80,
         "common_name":"Bougainvillea",
         "Category":"Outdoor",
         "scientific_name":"Bougainvillea spp.",
@@ -892,6 +973,7 @@
         "Height":"15-40 feet"
     },
     {
+        "id": 81,
         "common_name":"Jasmine",
         "Category":"Outdoor",
         "scientific_name":"Jasminum spp.",
@@ -903,6 +985,7 @@
         "Height":"10-15 feet"
     },
     {
+        "id": 82,
         "common_name":"Marigold",
         "Category":"Outdoor",
         "scientific_name":"Tagetes spp.",
@@ -914,6 +997,7 @@
         "Height":"Up to 36 inches"
     },
     {
+        "id": 83,
         "common_name":"Silver Oak",
         "Category":"Outdoor",
         "scientific_name":"Grevillea robusta",
@@ -925,6 +1009,7 @@
         "Height":"Up to 75 feet"
     },
     {
+        "id": 84,
         "common_name":"Indian Laburnum",
         "Category":"Outdoor",
         "scientific_name":"Cassia fistula",
@@ -936,6 +1021,7 @@
         "Height":"30-40 feet"
     },
     {
+        "id": 85,
         "common_name":"Coral Tree",
         "Category":"Outdoor",
         "scientific_name":"Erythrina indica",
@@ -947,6 +1033,7 @@
         "Height":"49-82 feet"
     },
     {
+        "id": 86,
         "common_name":"Weigela",
         "Category":"Outdoor",
         "scientific_name":"Weigela florida",
@@ -958,6 +1045,7 @@
         "Height":"3-16 feet"
     },
     {
+        "id": 87,
         "common_name":"Teak",
         "Category":"Outdoor",
         "scientific_name":"Tectona grandis",
@@ -969,6 +1057,7 @@
         "Height":"130-160 feet"
     },
     {
+        "id": 88,
         "common_name":"Sandalwood",
         "Category":"Outdoor",
         "scientific_name":"Santalum album",
@@ -980,6 +1069,7 @@
         "Height":"Up to 30 feet"
     },
     {
+        "id": 89,
         "common_name":"Durian",
         "Category":"Outdoor",
         "scientific_name":"Durio zibenthinus",
@@ -991,6 +1081,7 @@
         "Height":"80 to 160 feet"
     },
     {
+        "id": 90,
         "common_name":"Champak",
         "Category":"Outdoor",
         "scientific_name":"Michelia champaca",
@@ -1002,6 +1093,7 @@
         "Height":"30 to 50 feet"
     },
     {
+        "id": 91,
         "common_name":"Japanese Maple",
         "Category":"Outdoor",
         "scientific_name":"Acer palmatum",
@@ -1013,6 +1105,7 @@
         "Height":"6 to 30 feet"
     },
     {
+        "id": 92,
         "common_name":"Dogwood",
         "Category":"Outdoor",
         "scientific_name":"Cornus spp.",
@@ -1024,6 +1117,7 @@
         "Height":"30 to 40 feet"
     },
     {
+        "id": 93,
         "common_name":"Plumeria",
         "Category":"Outdoor",
         "scientific_name":"Plumeria spp.",
@@ -1035,6 +1129,7 @@
         "Height":"10-25 feet"
     },
     {
+        "id": 94,
         "common_name":"Rosewood",
         "Category":"Outdoor",
         "scientific_name":"Dalbergia latifolia",
@@ -1046,6 +1141,7 @@
         "Height":"Up to 100 feet"
     },
     {
+        "id": 95,
         "common_name":"Rubber Tree",
         "Category":"Outdoor",
         "scientific_name":"Hevea brasiliensis",
@@ -1057,6 +1153,7 @@
         "Height":"Up tp 360 inches"
     },
     {
+        "id": 96,
         "common_name":"Coconut",
         "Category":"Outdoor",
         "scientific_name":"Cocos nucifera",
@@ -1068,6 +1165,7 @@
         "Height":"720-1200 inches"
     },
     {
+        "id": 97,
         "common_name":"Apple Tree",
         "Category":"Outdoor",
         "scientific_name":"Malus domestica",
@@ -1079,6 +1177,7 @@
         "Height":"96-360 inches"
     },
     {
+        "id": 98,
         "common_name":"Peach",
         "Category":"Outdoor",
         "scientific_name":"Prunus persica",
@@ -1090,6 +1189,7 @@
         "Height":"48-300 inches"
     },
     {
+        "id": 99,
         "common_name":"Acacia",
         "Category":"Outdoor",
         "scientific_name":"Acacia auriculiformis",
@@ -1101,6 +1201,7 @@
         "Height":"192-480 inches"
     },
     {
+        "id": 100,
         "common_name":"Mahogany",
         "Category":"Outdoor",
         "scientific_name":"Swietenia mahagoni",
@@ -1112,6 +1213,7 @@
         "Height":"480-720 inches"
     },
     {
+        "id": 101,
         "common_name":"Cashew",
         "Category":"Outdoor",
         "scientific_name":"Anacardium occidentale",
@@ -1123,6 +1225,7 @@
         "Height":"40 to 80 inches"
     },
     {
+        "id": 102,
         "common_name":"Champa",
         "Category":"Outdoor",
         "scientific_name":"Syzigium jambos",
@@ -1134,6 +1237,7 @@
         "Height":"18-24 inches"
     },
     {
+        "id": 103,
         "common_name":"Rudraksham",
         "Category":"Outdoor",
         "scientific_name":"Elaeocarpus granitrus",
