@@ -3,7 +3,7 @@
         "common_name":"Aloe Vera",
         "Category":["Indoor","Medicinal"],
         "scientific_name":"Aloe barbadensis miller",
-        "short_description":["Non-flowering","Toxic", "Asphodelaceae"],
+        "short_description":{"Non-flowering","Toxic", "Asphodelaceae"},
         "Description":"Aloe Vera is also known as the miracle plant. These plants are relatively resistant to insects. That means you don't have to spend time swatting pests off of leaves, and you have an easy way to heal cuts, bruises, and skin problems!",
         "Image_Url":"https://cdn.shopify.com/s/files/1/0918/8442/1427/files/Aloe-Vera-Aloe-barbadensis-1024x683_e520317a-5fd1-4c43-97af-ddadbbee0a46.jpg?v=1739811252",
         "Watering":"Needs dry conditions to thrive",
