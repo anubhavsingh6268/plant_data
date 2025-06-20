@@ -25,7 +25,7 @@
     },
     {
         "common_name":"Areca Palm",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Dypsis lutescens",
         "short_description":["Non-flowering","Pet-friendly","Arecaceae"],
         "Description":"With its arching fronds, narrow leaves, and green leaflets, the Areca palm will brighten up every corner of your house. As its fronds arch, it is called a butterfly palm as it is similar to a butterfly's wings. ",
@@ -37,7 +37,7 @@
     },
     {
         "common_name":"Asparagus Fern",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Asparagus setaceus",
         "short_description":["Non-flowering", "Toxic","Asparagaceae"],
         "Description":"Asparagus Fern's grass-like structure and soft hanging spurs make it an easy houseplant to grow. This plant grows rapidly, however, so one needs to be vigilant about the overgrowth. Even though their spurs resemble soft bushy fur, they are quite prickly, so it is best to cover your hands when handling them.",
@@ -49,7 +49,7 @@
     },
     {
         "common_name":"Azalea",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Rhododendron",
         "short_description":["Flowering","Toxic","Ericaceae"],
         "Description":"Azalea is a popular and fragrant flowering shrub. It always signaled the upcoming arrival of spring. Moreover, the plant blooms in a multitude of colors. Additionally, they are well-known for their beauty.",
@@ -61,7 +61,7 @@
     },
     {
         "common_name":"Baby rubber plant ",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Peperomia obtusifolia",
         "short_description":["Non-flowering","Pet-friendly","Piperaceae"],
         "Description":"Makes an excellent addition to hanging baskets.  Depending on the variety, oval leaves can be green or striped. In addition, it blooms white flowers during the spring and fall.",
@@ -85,7 +85,7 @@
     },
     {
         "common_name":"Begonia",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Begonia",
         "short_description":["Flowering","Toxic","Begoniaceae"],
         "Description":"They are incredibly easy to grow, look fantastic in your garden or indoors, and are fairly low maintenance. In the world, there are more than 1700 varieties of Begonia. With their beautiful short leaves and colorful flowers, begonias add a touch of charm to your house.",
@@ -97,7 +97,7 @@
     },
     {
         "common_name":"Boston Fern",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Nephrolepis exalta",
         "short_description":["Non-flowering","Pet-friendly","Nephrolepidaceae"],
         "Description":"Best indoor plant for hanging baskets, with its trailing habit of cascading fronds with alternate, green leaves",
@@ -109,7 +109,7 @@
     },
     {
         "common_name":"Bunny ear cactus",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Opuntia microdasys",
         "short_description":["Non-flowering","Pet-friendly","Cactaceae"],
         "Description":"A Bunny Ear Cactus makes the best indoor plant for dry areas because of its desert-like appearance. Due to their yellow glochids on their green surfaces, they are also called Polka Dot cactus.",
@@ -121,7 +121,7 @@
     },
     {
         "common_name":"Calathea",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Calathea",
         "short_description":["Non-flowering","Pet-friendly","Marantaceae"],
         "Description":"Indoor plants like Calathea are suitable for both office spaces and households. The plant's bold green and white print on its leaves have earned it several nicknames, including cathedral plant, peacock plant, zebra plant, and rattlesnake plant. Their tropical Marantaceae family is among the most popular of all herb plants.",
@@ -145,7 +145,7 @@
     },
     {
         "common_name":"Corn/Cornstalk Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Dracaena Fragrans",
         "short_description":["Non-flowering","Toxic","Asparagaceae"],
         "Description":" These plants are also known as corn plants, dragon trees, or ribbon plants and are native to tropical Africa. They are relatively easy to care for and can be a nice addition to any home or office. ",
@@ -157,7 +157,7 @@
     },
     {
         "common_name":"Croton",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Codiaeum variegatum",
         "short_description":["Flowering", "Toxic","Euphorbiaceae"],
         "Description":"This plant displays a variety of vibrant colors including red, green, yellow, and orange on its leaves, which add a tropical touch to homes.",
@@ -169,7 +169,7 @@
     },
     {
         "common_name":"Dieffenbachia",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Dieffenbachia seguine",
         "short_description":["Non-flowering","Toxic","Araceae"],
         "Description":"The Dieffenbachia plant is a simple green-leafed plant that is easy to grow indoors and maintain. It is important to take great care when planting a Dieffenbachia indoors. As their leaves are poisonous, one bite can paralyze a person. It is best to keep pets and children away from them.",
@@ -181,7 +181,7 @@
     },
     {
         "common_name":"Donkey Tail",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Sedum morganianum",
         "short_description":["Non-flowering","Pet-friendly","Crassulaceae"],
         "Description":"One of the most beautiful succulent plants that adds an exotic touch to any space where it is grown. It takes quite a while for the burrow's tail (Donkey tail) to grow on this succulent, so patience is required.",
@@ -193,7 +193,7 @@
     },
     {
         "common_name":"Dragon Tree/Marginata",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Dracaena Draco",
         "short_description":["Non-flowering","Toxic","Asparagaceae"],
         "Description":"The Dragon Tree houseplant is an excellent choice for indoor plants due to its robust root system and ability to survive in almost any climate. These serves as natural purifiers. Since it is toxic, it is best to keep it away from pets and children.",
@@ -205,7 +205,7 @@
     },
     {
         "common_name":"Dwarf Umbrella Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Schefflera arboricola",
         "short_description":["Non-flowering","Toxic","Araliaceae"],
         "Description":"Dwarf umbrella trees are commonly known as Hawaiian umbrella trees. Since calcium oxalate is present, it is best to keep it out of reach of children and pets. It can cause digestive problems if consumed in large quantities.",
@@ -217,7 +217,7 @@
     },
     {
         "common_name":"Ferns",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Tracheophyta",
         "short_description":["Non-flowering","Pet-friendly","Various"],
         "Description":"Among the oldest species of plants on earth, ferns date back millions of years. A fern is a vascular seed, that neither bears seeds nor flowers. They remove chemical pollutants from the air and heavy metals, especially arsenic, from the soil.",
@@ -229,7 +229,7 @@
     },
     {
         "common_name":"Ficus A1 Gold",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Ficus Alii",
         "short_description":["Flowering","Toxic","Moraceae"],
         "Description":"A1: Golden artificial ficus trees are cost-effective and low-maintenance. They do not require pruning, watering, or sunlight, making them a budget-friendly option for decor.",
@@ -241,7 +241,7 @@
     },
     {
         "common_name":"Fiddle leaf fig plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Ficus lyrata",
         "short_description":["Non-flowering","Toxic","Moraceae"],
         "Description":"If you have a dull corner or space in your house, the plant can add style and drama. Despite its classy appearance, this plant requires very little care. With its dark green leaves and glossy, violin-shaped trunk, it is the top favorite of all interior designers. This plant absorbs all toxic chemicals present in the indoor air.",
@@ -265,7 +265,7 @@
     },
     {
         "common_name":"Golden Pothos",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Epipremum aureum",
         "short_description":["Non-flowering","Toxic","Araceae"],
         "Description":"Also known as Devil's Ivy is a popular low-maintenance houseplant. The plant is known for its trailing stems, which can be grown in hanging baskets or given support to climb.",
@@ -277,7 +277,7 @@
     },
     {
         "common_name":"Grafted ficus bonsai",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Ficus microcarpa",
         "short_description":["Non-flowering","Toxic","Moraceae"],
         "Description":"The Ficus is one of the most popular tropical and evergreen trees. There are more than 600 varieties worldwide. Since Ficus are mainly fast-growing plants, they make excellent choices for novice gardeners.",
@@ -289,7 +289,7 @@
     },
     {
         "common_name":"Grape Ivy",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Cissus rhombofolia",
         "short_description":["Flowering","Toxic","Vitaceae"],
         "Description":"It has a low-maintenance nature. An important feature of grape ivy is its scalloped margins. With a trellis or other supports, this vine plant can be trained either horizontally or vertically.",
@@ -301,7 +301,7 @@
     },
     {
         "common_name":"Heart-leaf Philodendron",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Philodendron hederaceum",
         "short_description":["Non-flowering","Toxic","Araceae"],
         "Description":"Love tree is the literal name of this plant in Greek. With its dark green, shiny heart-shaped leaves, it looks great on a tabletop or hung from a ceiling. Also, it thrives on neglect, is impossible to kill, and removes airborne toxins!",
@@ -313,7 +313,7 @@
     },
     {
         "common_name":"Indian Basil",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Ocimum tenuiflorum",
         "short_description":["Flowering","Pet-friendly","Lamiaceae"],
         "Description":"In India, it has been cultivated for more than 5,000 years. Ayurvedic medicine reveres it for its medicinal properties in the treatment of many diseases. Its dried leaves can also be used as mosquito repellents.",
@@ -337,7 +337,7 @@
     },
     {
         "common_name":"Janet Craig",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Dracena deremensis",
         "short_description":["Non-flowering","Toxic","Asparagaceae"],
         "Description":"Dracaena Janet Craig has lush, shiny, wide green leaves with wavy edges. A tall growing, upright, compact species, Janet Craig looks great as an elegant floor specimen and is well known for its ability to purify the surrounding air",
@@ -349,7 +349,7 @@
     },
     {
         "common_name":"Kalanchoe",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Kalanchoe",
         "short_description":["Flowering","Toxic","Crassulaceae"],
         "Description":"it is a perfect gift to give to someone you care about. Keep Kalanchoe out of reach of children and pets because the leaves and flowers may have toxins that are harmful. For a beautiful display, hang them in baskets or place them in small pots on the window sill.",
@@ -361,7 +361,7 @@
     },
     {
         "common_name":"Kentia Palm",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Howea forsteriana",
         "short_description":["Non-flowering","Pet-friendly","Arecaceae"],
         "Description":"It is a graceful and elegant palm. It is prized for its lush, arching fronds and tropical charm, making it a popular choice for both indoor and outdoor settings.",
@@ -373,7 +373,7 @@
     },
     {
         "common_name":"Lady Palm",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Raphis excelsa",
         "short_description":["Non-flowering","Pet-friendly","Arecaceae"],
         "Description":"It is a popular indoor plant known for its clumping growth habit, elegant fan-shaped leaves, and low-maintenance care requirements. Lady palms are known for their air-purifying properties, filtering indoor air pollutants. The genus name is from the Greek for “rod,” presumably alluding to the stems that have been used for walking sticks.",
@@ -397,7 +397,7 @@
     },
     {
         "common_name":"Lavender",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Lavandula",
         "short_description":["Flowering","Pet-friendly","Lamiaceae"],
         "Description":"Providing color, fragrance, insect repellency, and beauty regimen all in one flower; that's lavender, my friend! Even though it does not fall under the traditional houseplant category, it is still beneficial.",
@@ -409,7 +409,7 @@
     },
     {
         "common_name":"Lemon Button Fern",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Nephrolepis cordifolia",
         "short_description":["Non-flowering","Pet-friendly","Polypodiaceae"],
         "Description":"These ferns are named after their rounded leaves, as well as their short and demure nature. The cute and dainty look of these ferns makes them a perfect indoor plant. You can also plant them in terrariums to make your home look bright and full.",
@@ -421,7 +421,7 @@
     },
     {
         "common_name":"Lucky Bamboo Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Dracaena sanderiana",
         "short_description":["Non-flowering","Mildly toxic","Asparagaceae"],
         "Description":"Feng Shui practitioners also recommend the Lucky Bamboo. In Feng Shui, a Lucky Bamboo's positive effect differs according to the number of stalks it has tied together, with each stalk representing a different level of prosperity and gain.",
@@ -433,7 +433,7 @@
     },
     {
         "common_name":"Money Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Epipremnum aureum",
         "short_description":["Non-flowering","Pet-friendly","Malvaceae"],
         "Description":"The plant is attractive, easy to care for, and efficiently removes indoor pollutants such as formaldehyde and benzene.",
@@ -457,7 +457,7 @@
     },
     {
         "common_name":"Paddle Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Kalanchoe",
         "short_description":["Non-flowering","Toxic","Crassulaceae"],
         "Description":"With red-tinged leaves, it has an excellent appearance and adorns the home beautifully. These plants have various names, but the most common are Flapjack Plants and Desert Cabbage. It belongs to the Crassulaceae plant family and makes an excellent indoor plant.",
@@ -481,7 +481,7 @@
     },
     {
         "common_name":"Peperomia",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Peperomia",
         "short_description":["Non-flowering","Pet-friendly","Piperaceae"],
         "Description":"The Pepper Family consists of over 1000 different species of peperomias. Nevertheless, some of the most commonly grown peperomias are watermelon peperomia, heart peperomia with heart-shaped leaves, peperomia obtusifolia, minima, etc. As these plants are poisonous, they must be kept away from pets and children.",
@@ -493,7 +493,7 @@
     },
     {
         "common_name":"Ponytail Palm",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Beaucarnea recurvata",
         "short_description":["Non-flowering","Pet-friendly","Asparagaceae"],
         "Description":"This plant is perfect for the lazy gardener or the novice, as the plants require little maintenance and look wonderful. These plants are succulent, which means they can store a lot of water in their roots and trunks. This makes it easy to keep them healthy.",
@@ -505,7 +505,7 @@
     },
     {
         "common_name":"Pothos",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Epipremnum aureum",
         "short_description":["Non-flowering","Toxic","Araceae"],
         "Description":"One of the 'hard to kill' houseplants, Pothos is traditionally believed to bring good fortune to its owner. Moreover, with its creeping nature, you can train it on trellises or hang it from the ceiling in hanging baskets as a vine.This plant also filters the air naturally.",
@@ -517,7 +517,7 @@
     },
     {
         "common_name":"Prayer Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Maranta leuconeura",
         "short_description":["Non-flowering","Pet-friendly","Marantaceae"],
         "Description":"This plant receives its name from its unusual leaves. At night, they fold in an upright position like you would fold your hands in prayer. Also, you get many varieties in Prayer Plants, namely between 40 and 50 different types.",
@@ -529,7 +529,7 @@
     },
     {
         "common_name":"Pygmy date/Miniature date palm Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Phoenix roebelenii",
         "short_description":["Non-flowering","Pet-friendly","Arecaceae"],
         "Description":"It features graceful, arching fronds, a narrow trunk, and a fine texture. While it's known for its aesthetic appeal and air-purifying qualities, its fronds have sharp spines at hte base. The palm can also produce small, edible dates, although they are not a commercial crop.",
@@ -541,7 +541,7 @@
     },
     {
         "common_name":"Queensland Umbrella",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Schefflera actinophylla",
         "short_description":["Non-flowering","Toxic","Araliaceae"],
         "Description":"It's characterized by its large, glossy, umbrella-like leaves. The tree features multiple trunks, often with a smooth, grey bark, and its leaves are compound, with stalks up to 40 cm long. It produces red flowers in large, umbrella-like clusters, followed by dark red, ribbed fruits. ",
@@ -553,7 +553,7 @@
     },
     {
         "common_name":"Rubber Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Ficus elastica",
         "short_description":["Non-flowering","Toxic","Moraceae"],
         "Description":"Popularly known for its large, glossy and vibrant foliage. Its most famous feature is the milky white sap, known as latex, which flows freely from the tree when a sliver of bark is removed. A rubber tree, also referred to as rubberwood, can be tapped for latex once it reaches approximately six years of age.",
@@ -565,7 +565,7 @@
     },
     {
         "common_name":"Snake Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Dracaena trifasciata",
         "short_description":["Non-flowering","Toxic","Asparagaceae"],
         "Description":"It is ideally suited for air conditioning as it performs well under low light and absorbs different gases",
@@ -577,7 +577,7 @@
     },
     {
         "common_name":"Spider Plant",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Chlorophytum cosmosum",
         "short_description":["Non-flowering","Pet-friendly","Asparagaceae"],
         "Description":"Improves air quality by removing xylene and formaldehyde from the surrounding area",
@@ -589,7 +589,7 @@
     },
     {
         "common_name":"String of Pearl",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Senecio rowleyanus",
         "short_description":["Non-flowering","Pet-friendly","Asteraceae"],
         "Description":" A String of pearls planted in a hanging pot or basket is a perfect addition. In addition, it is resilient, low maintenance, and easy to grow.",
@@ -601,7 +601,7 @@
     },
     {
         "common_name":"Warneck Dracaena",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Dracaena deremensis",
         "short_description":["Non-flowering","Toxic","Asparagaceae"],
         "Description":"Another fuss-free houseplant to purify your home's air from pollutants like xylene and toluene. It has a tremendous value attached to it because it can tolerate many different kinds of conditions well.",
@@ -613,7 +613,7 @@
     },
     {
         "common_name":"Weeping fig",
-        "Category":"Indoor",
+        "Category":["Indoor"],
         "scientific_name":"Ficus Benjamina",
         "short_description":["Non-flowering","Toxic","Moraceae"],
         "Description":"Ideal for cleaning air in homes. Needs to be pruned regularly and protected from drafts of wind as it is sensitive to cold weather. May cause allergies, so some research is advisable before purchase.",
@@ -649,7 +649,7 @@
     },
     {
         "common_name":"Papaya",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Carica papaya",
         "short_description":["Flowering","Edible","Caricaceae"],
         "Description":"It's a good source of vitamins, including vitamin C, vitamin A, and folate, and contains beneficial enzymes like papain, which aids in digestion and meat tenderizing. Papayas are commonly eaten raw, in salads, juices, or as a side dish. They can also be used in desserts, cooked as a vegetable, or incorporated into various other dishes. Different varieties of papayas exist, some of which may have slightly different shapes, sizes, or colors.",
@@ -673,7 +673,7 @@
     },
     {
         "common_name":"Jamun/Indian Blackberry",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Syzgium cumini",
         "short_description":["Flowering","Edible","Myrtaceae"],
         "Description":"Also known as Java plum or black plum, is a fruit of the Myrtaceae family, native to the Indian subcontinent. The evergreen tree bears dark purple to black, berry-like fruits with a unique sweet-tart flavor. Jamun is a significant part of traditional medicine and culinary practices, known for its diverse health benefits, including diabetes management, digestive improvement, and immunity boosting.",
@@ -685,7 +685,7 @@
     },
     {
         "common_name":"Ber/Indian Jujube",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Ziziphus mauritiana",
         "short_description":["Flowering","Edible","Rhamnaceae"],
         "Description":" It's a nutritious fruit, rich in vitamins (C, A, B complex), and minerals (calcium, phosphorus, iron). Ber can be eaten raw, pickled, candied, or used in desserts. Its leaves are also used as fodder.  Ber can be propagated through seed sowing or vegetative methods like budding.",
@@ -697,7 +697,7 @@
     },
     {
         "common_name":"Pomegranate",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Punica granatum",
         "short_description":["Flowering","Edible","Lythraceae"],
         "Description":"Pomegranates are distinctive, round fruits with a tough, leathery outer skin (the pericarp) and a juicy, seed-packed interior. They are known for their vibrant red color (though can also be pink, yellow, or white) and a unique, sweet-tart flavor. The edible portion consists of the fleshy, gem-like arils that surround the seeds. ",
