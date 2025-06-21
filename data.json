@@ -708,8 +708,8 @@
         "Height":"10-12 feet"
     },
     {
-        "common_name":"Orange",
-        "Category":"Outdoor",
+        "common_name":"Orange Tree",
+        "Category":["Outdoor"],
         "scientific_name":"Citrus sinensis",
         "short_description":["Flowering","Edible","Rutaceae"],
         "Description":"Oranges are a popular citrus fruit known for their vibrant color, juicy flesh, and sweet and tangy flavor. They are a good source of vitamin C, and are often consumed fresh or in juice form. Orange trees, typically reaching 10 meters (33 ft) tall, produce round fruits with a leathery, orange-colored peel. Inside the fruit, the edible portion, or endocarp, is made up of individual segments containing juice sacs.",
@@ -720,8 +720,8 @@
         "Height":"30 to 33 feet"
     },
     {
-        "common_name":"Lemon",
-        "Category":"Outdoor",
+        "common_name":"Lemon Tree",
+        "Category":["Outdoor"],
         "scientific_name":"Citrus limon",
         "short_description":["Flowering","Edible","Rutaceae"],
         "Description":"Lemons are vibrant, yellow, citrus fruits known for their tangy, sour flavor and rich source of vitamin C. They are a versatile ingredient in both culinary and medicinal applications, with various benefits attributed to their high vitamin C content and citric acid. Lemons are a good source of vitamin C, an antioxidant that helps boost the immune system and protect against cell damage.",
@@ -746,7 +746,7 @@
     },
     {
         "common_name":"Banana",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Musa paradisiaca",
         "short_description":["Flowering","Edible","Musaceae"],
         "Description":"They are known for their soft, starchy flesh and a peel that can range in color from green to yellow, red, or purple depending on the ripeness and variety. Bananas are a good source of carbohydrates, fiber, potassium, and vitamin B6, and are often consumed for their nutritional value and energy-providing properties. Numerous banana varieties exist, including dessert bananas (sweet and soft) and plantains (firmer and starchy).",
@@ -758,7 +758,7 @@
     },
     {
         "common_name":"Watermelon",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Citrullus lanatus",
         "short_description":["Flowering","Edible","Cucurbitaceae"],
         "Description":"Watermelons are a large, spherical or oblong fruit with a thick, waxy rind, typically green but can be striped or variegated. The flesh inside is juicy and can range in color from pink to red to yellow, depending on the variety. They are a member of the Cucurbitaceae family (cucumber family) and are known for their sweet, refreshing flavor. When choosing watermelons, look for a firm, heavy fruit with a yellow spot on the underside (indicating ripeness). Store them at room temperature until ripe and then refrigerate them after cutting.",
@@ -770,7 +770,7 @@
     },
     {
         "common_name":"Grapes",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Vitis vinifera",
         "short_description":["Flowering","Edible","Vitaceae"],
         "Description":"They come in various colors like green, red, purple, and black. Grapes are non-climacteric fruits, meaning their ripening continues even after harvesting. They are widely cultivated for fresh consumption, drying into raisins, and making grape juice and wine. Grapes have been cultivated for thousands of years, with wine playing a significant role in ancient cultures.",
@@ -782,7 +782,7 @@
     },
     {
         "common_name":"Almond",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Prunus amygdalus",
         "short_description":["Flowering","Edible","Rosaceae"],
         "Description":"They are a type of drupe, a fruit with a fleshy outer layer, a hard shell, and the seed inside, which is the edible part. Almonds are a good source of nutrients, including protein, healthy fats, fiber, and vitamins, and are often consumed as a snack or used in cooking and baking. There are two main types of almonds: sweet and bitter. Sweet almonds are the ones commonly consumed, while bitter almonds contain amygdalin, which is toxic in large quantities.",
@@ -794,7 +794,7 @@
     },
     {
         "common_name":"Plum",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Prunus domestica",
         "short_description":["Flowering","Edible","Rosaceae"],
         "Description":"Plums are a stone fruit, belonging to the same family as peaches and cherries. They are known for their sweet or tart flavor, juicy texture, and vibrant colors ranging from green to yellow, red, and purple. Plums are a good source of vitamins, minerals, and antioxidants. There are many varieties of plums, including European plums (e.g., Prunus domestica), Japanese plums (e.g., Prunus salicina), and damsons. These varieties differ in size, shape, color, and flavor. Plums are susceptible to certain pests and diseases, including plum curculios (weevils), brown rot, and black knot. These can be managed through proper pruning, sanitation practices, and the use of appropriate fungicides and insecticides.",
@@ -806,7 +806,7 @@
     },
     {
         "common_name":"Cherry",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Prunus avium",
         "short_description":["Flowering","Edible","Rosaceae"],
         "Description":"They are commonly grown in temperate climates and come in two main varieties: sweet cherries and sour (tart) cherries. Cherries are a good source of vitamins, antioxidants, and fiber, and are enjoyed fresh, canned, frozen, or used in various baked goods and desserts. Sweet cherries have a lower acid content, making them sweeter and more enjoyable to eat fresh. Sour cherries are known for their tart falvor and are often used in pies, sauces, and juices.",
@@ -842,7 +842,7 @@
     },
     {
         "common_name":"Siris Tree",
-        "Category":"Outdoor",
+        "Category":["Outdoor]",
         "scientific_name":"Albizzia lebbek",
         "short_description":["Flowering","Generally edible","Fabaceae"],
         "Description":"It is a fast-growing, deciduous tree native to the Indian subcontinent and Southeast Asia. It's also known as the Woman's Tongue tree or sometimes black siris. Bipinnate, meaning they have multiple sets of smaller leaflets arranged along a central stalk.  Like other members of the Fabaceae family, it fixes nitrogen in the soil, enriching it for other plants. The tree is used for various purposes, including timber, fuel wood, and ornamental planting.",
@@ -866,7 +866,7 @@
     },
     {
         "common_name":"Jacaranda",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Jacaranda mimosofolia",
         "short_description":["Flowering","Generally edible","Bignoniaceae"],
         "Description":"Jacaranda is a genus of flowering trees native to South and Central America, known for its beautiful purple or blue flowers and attractive, fern-like leaves. These trees are often cultivated as ornamentals, particularly in warmer climates, due to their rapid growth, showy blooms, and spreading canopies. In some regions, jacarandas have been reported as invasive, outcompeting other native vegetation due to their fast growth and deep root systems. Pruning is important to maintain their shape, remove dead or damaged branches, and prevent potential hazards in high-use areas.",
@@ -879,7 +879,7 @@
     
     {
         "common_name":"Ashoka Tree",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Saraka indica",
         "short_description":["Flowering","Generally edible","Fabaceae"],
         "Description":" It's a prized ornamental tree in India and other tropical regions, with a history of medicinal and cultural significance. The Ashoka tree is famous for its clusters of bright orange-yellow to red flowers, which are fragrant. They are often found in heavy, lush bunches and can be seen blooming in the early spring. The bark is particularly used for gynecological problems, menstrual disorders, and uterine spasms.",
@@ -903,7 +903,7 @@
     },
     {
         "common_name":"Karanj Tree",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Pongamia pinnata",
         "short_description":["Flowering","Generally edible","Fabaceae"],
         "Description":"It is a fast-growing tree often planted for shade and has significant environmental benefits. Karanja trees are known for their nitrogen-fixing abilities, which enhance soil fertility, and their ability to withstand drought conditions. They are also valued for their diverse uses, including medicinal properties and biofuel production. It's dense root network and thick taproot system is helpful in drought tolerance.",
@@ -915,7 +915,7 @@
     },
     {
         "common_name":"Eucalyptus",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Eucalyptus spp.",
         "short_description":["Flowering","Generally edible","Myrtaceae"],
         "Description":"hey are known for their unique bark (often smooth, fibrous, or stringy), oil-infused leaves (used in aromatherapy and medicine), and distinctive gumnuts (woody fruit capsules). Eucalypts are highly adaptable and can grow in a wide range of habitats, from coastal areas to mountainous regions, and are widely cultivated for timber, pulp, and essential oil production.",
@@ -927,7 +927,7 @@
     },
     {
         "common_name":"Bamboo",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Bambusa spp.",
         "short_description":["Flowering","Generally edible","Poaceae"],
         "Description":"Bamboo is a fast-growing, woody grass belonging to the family Poaceae, characterized by its hollow, cylindrical stems (culms). It's a highly versatile resource used for construction, furniture, paper, food, and more, with some species capable of growing over 1 meter in 24 hours. Bamboo is also a valuable ecological resource, known for its ability to rapidly absorb carbon dioxide and release oxygen. ",
@@ -975,7 +975,7 @@
     },
     {
         "common_name":"Jasmine",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Jasminum spp.",
         "short_description":["Flowering","Edible","Oleaceae"],
         "Description":"Jasmine is a genus of flowering plants known for their fragrant white or yellow flowers and sweet scent. It is a popular ornamental plant, widely cultivated for its fragrance, used in perfumery, and also in teas. Jasmines are typically shrubs or vines that thrive in warm, temperate, and tropical climates. Many jasmine species are climbing shrubs or vines, often growing on structures or other plants. Jasmine tea is prepared by infusing jasmine flowers with tea leaves, enhancing the tea's flavor and fragrance.",
@@ -999,7 +999,7 @@
     },
     {
         "common_name":"Silver Oak",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Grevillea robusta",
         "short_description":["Flowering","Generally edible","Proteaceae"],
         "Description":"It is a fast-growing, evergreen tree native to Australia but widely cultivated elsewhere. It's often called Silky Oak in Australia due to the silky texture of its leaves. While not a true oak, it's a popular choice for shade trees, especially in tea plantations. In India, it's primarily used as a shade tree, particularly in tea plantations, but is also valued for its timber and honey production. It can also be used for beautification and other purposes. Besides Silver Oak and Silky Oak, it's also known as Southern Silky Oak or Australian Silver Oak.",
@@ -1023,7 +1023,7 @@
     },
     {
         "common_name":"Coral Tree",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Erythrina indica",
         "short_description":["Flowering","Generally edible","Fabaceae"],
         "Description":"It is a striking, deciduous tree known for its vibrant red flowers and unique characteristics. It's a spreading tree legume native to tropical and subtropical regions, often used ornamentally. The leaves are trifoliate (three leaflets) with petioles (leaf stalks) that can be 2-28 cm long. The pods and other parts of the coral tree have been traditionally used for various medicinal purposes and even as a vegetable.",
@@ -1035,7 +1035,7 @@
     },
     {
         "common_name":"Weigela",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Weigela florida",
         "short_description":["Flowering","Generally edible","Caprifoliaceae"],
         "Description":"Weigela is a genus of deciduous flowering shrubs in the family Caprifoliaceae, known for their showy, tubular flowers and relatively easy care. These shrubs are native to East Asia and are widely cultivated for their ornamental value, offering vibrant blooms in late spring and early summer, and sometimes later in the season. Weigela species typically have upright or spreading habits, with many varieties available in different sizes and flower colors.",
@@ -1047,7 +1047,7 @@
     },
     {
         "common_name":"Teak",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Tectona grandis",
         "short_description":["Flowering","Generally edible","Lamiaceae"],
         "Description":"Teak, a majestic hardwood tree, is renowned for its exceptional durability, water resistance, and beautiful wood grain. Native to Southeast Asia, it is a large deciduous tree valued for its strong, oily wood and its ability to withstand the elements. Teak wood is exceptionally strong and resistant to decay and weather extremes. The natural oils in teak make it highly resistant to water damage, making it ideal for outdoor applications. Teak is also used for various purposes, including building poles, fence posts, and musical instruments.",
@@ -1059,7 +1059,7 @@
     },
     {
         "common_name":"Sandalwood",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Santalum album",
         "short_description":["Flowering","Generally edible","Santalaceae"],
         "Description":"Also known as East Indian sandalwood, is a valuable tree species prized for its fragrant, aromatic wood and oil. It's a small evergreen tree native to regions like India, Sri Lanka, Indonesia, and Australia. The tree's heartwood, which is yellowish to brown, is highly valued for its distinctive woody, sweet, and balsamic scent, making it a key ingredient in perfumes, incense, and other products.",
@@ -1083,7 +1083,7 @@
     },
     {
         "common_name":"Champak",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Michelia champaca",
         "short_description":["Flowering","Generally edible","Magnoliaceae"],
         "Description":"Champak is a large, fragrant, evergreen tree in the family Magnoliaceae, formerly known as Michelia champaca. It is native to Southeast Asia and is valued for its beautiful, sweet-scented flowers and its timber, which is used in woodworking. The tree also holds cultural significance in some regions, being associated with festivals and ceremonies. The flowers are fragrant and can be white, yellow, or cream-colored, depending on the variety. The tree is planted as an ornamental tree in gardens and parks for its beautiful flowers and foliage.",
@@ -1095,7 +1095,7 @@
     },
     {
         "common_name":"Japanese Maple",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Acer palmatum",
         "short_description":["Flowering","Generally edible","Sapindaceae"],
         "Description":"It  is a small, deciduous tree or shrub celebrated for its beautiful foliage, graceful form, and vibrant autumn colors. It's a popular choice for both traditional Japanese gardens and modern suburban landscapes, offering a variety of attractive cultivars with different leaf shapes and colors. Leaves are typically palmate (hand-shaped) with varying degrees of lobing and can range from green to red, purple, or bronze throughout the season.",
@@ -1107,7 +1107,7 @@
     },
     {
         "common_name":"Dogwood",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Cornus spp.",
         "short_description":["Flowering","Generally edible","Cornaceae"],
         "Description":"They are a diverse group of shrubs and small trees, often prized for their beautiful spring blooms and attractive fall foliage. They are known for their showy white, pink, or red petal-like bracts that surround clusters of tiny, insignificant flowers. Dogwoods typically have oval, green leaves that turn red or purple in the fall. Their fruits are drupes, often brightly colored and a food source for birds and mammals. Dogwoods produce drupes, often bright red or blue, which are attractive to wildlife.",
@@ -1119,7 +1119,7 @@
     },
     {
         "common_name":"Plumeria",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Plumeria spp.",
         "short_description":["Flowering","Generally edible","Apocynaceae"],
         "Description":"Plumeria, also known as Frangipani, is a genus of flowering plants primarily found in tropical and subtropical regions. These plants, typically small trees or shrubs, are known for their fragrant, often clustered flowers in various shades of white, yellow, pink, and red. Plumerias are popular ornamental plants, often used in gardens and landscapes. Most Plumeria species are deciduous, losing their leaves during winter or dry seasons. Some varieties of Plumeria obtusa can be evergreen. Plumeria rubra, the most common species, is known to be an invasive species in some areas, easily spreading by seed and vegetative cuttings.",
@@ -1131,7 +1131,7 @@
     },
     {
         "common_name":"Rosewood",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Dalbergia latifolia",
         "short_description":["Flowering","Generally edible","Fabaceae"],
         "Description":"Rosewood is a valuable hardwood, prized for its rich color, strength, and durability. It's a popular choice for furniture, musical instruments, and decorative veneers. Several species of trees, notably within the Dalbergia genus, produce wood referred to as rosewood. Rosewood is a protected species worldwide due to overexploitation and illegal logging.",
@@ -1155,7 +1155,7 @@
     },
     {
         "common_name":"Coconut",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Cocos nucifera",
         "short_description":["Flowering","Edible","Arecaceae"],
         "Description":"a tall, single-trunked palm tree with a graceful, feathery crown of pinnate leaves. It is a vital part of tropical ecosystems and offers a wide range of uses, including food, drink, and building materials. The trunk, leaves, and husks can be used for construction, roofing, and other purposes. Coconut palms play a role in coastal erosion control and are important components of coastal ecosystems. In essence, the coconut palm is a versatile and ecologically important tree that provides a variety of resources for humans and plays a role in tropical ecosystems.",
@@ -1167,7 +1167,7 @@
     },
     {
         "common_name":"Apple Tree",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Malus domestica",
         "short_description":["Flowering","Edible","Rosaceae"],
         "Description":"a deciduous tree belonging to the Rosaceae family, known for producing the delicious fruit we call the apple. These trees typically reach a height of 10-25 feet and have a broad, twiggy crown with oval-shaped leaves that have serrated edges. In the spring, they produce showy white or pink blossoms that are pollinated by insects, leading to the development of fruit in late summer or fall. There are thousands of different apple cultivars, each with its own unique characteristics. Some varieties are self-pollinating, while others require cross-pollination between different apple trees or crabapples.",
@@ -1179,7 +1179,7 @@
     },
     {
         "common_name":"Peach",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Prunus persica",
         "short_description":["Flowering","Edible","Rosaceae"],
         "Description":"a deciduous tree known for its sweet, juicy fruit. They are relatively short trees, typically reaching 3-4 meters in height, with slender, supple branches. There are numerous peach varieties, with some being freestones (the flesh separates easily from the pit) and others being clingstones (the flesh sticks to the pit). Nectarines, a variety of peach without the fuzz on the skin, are also common.",
@@ -1203,7 +1203,7 @@
     },
     {
         "common_name":"Mahogany",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Swietenia mahagoni",
         "short_description":["Flowering","Generally edible","Meliaceae"],
         "Description":"Mahogany is a hardwood timber known for its rich, reddish-brown color and durability, primarily sourced from trees within the Swietenia genus. It's prized for its beauty, stability, and resistance to rot and insect damage, making it a popular choice for furniture, musical instruments, and boat building. Mahogany is relatively stable, meaning it doesn't shrink or warp much in response to changes in humidity. It's a popular tonewood, particularly for guitar necks and bodies. The primary mahogany species are Swietenia macrophylla (big-leaf mahogany), Swietenia humilis (Mexican mahogany), and Swietenia mahagoni (small-leaved mahogany).",
@@ -1227,7 +1227,7 @@
     },
     {
         "common_name":"Champa",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Syzigium jambos",
         "short_description":["Flowering","Generally edible","Apocynaceae"],
         "Description":"It is a popular flowering tree known for its fragrant, yellow-orange blossoms and its use in religious and cultural practices in India and Southeast Asia. It's also a valuable tree in agroforestry, offering benefits like nitrogen fixation and soil improvement. Used for worship in temples, fragrance in incense and perfumes, traditional medicine, and as an ornamental plant. The flowers are used for adorning idols, in garlands, and as a fragrance in religious settings.",
@@ -1239,7 +1239,7 @@
     },
     {
         "common_name":"Rudraksham",
-        "Category":"Outdoor",
+        "Category":["Outdoor"],
         "scientific_name":"Elaeocarpus granitrus",
         "short_description":["Flowering","Generally edible","Elaeocarpaceae"],
         "Description":"Rudraksha beads, derived from the fruit of the Elaeocarpus ganitrus tree, are revered in Hinduism as sacred and beneficial. They are known for their spiritual and healing properties, with each Mukhi (face) representing a unique deity and benefit. Rudraksha beads are often worn as malas (prayer beads) for chanting mantras, symbolizing connection to the divine and offering protection.",
@@ -1251,7 +1251,7 @@
     },
     {
         "common_name":"Turmeric",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Curcuma longa",
         "short_description":["Flowering","Edible","Zingiberaceae"],
         "Description":"Turmeric is a rhizome (underground stem) of the plant, a relative of ginger, known for its vibrant yellow color and unique flavor. It's a popular spice used in cooking, particularly in dishes like curry, and also possesses potential health benefits, with its active compound curcumin playing a significant role. Turmeric is a natural coloring agent and a source of flavor and nutrition, with a warm, bitter taste.",
@@ -1263,7 +1263,7 @@
     },
     {
         "common_name":"Ashwagandha",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Withania somnifera",
         "short_description":["Flowering","Edible","Solanaceae"],
         "Description":"It grows as a small shrub. It contains several bioactive compounds, including a group of substances known as withanolides. Withanolides have been associated with anti-inflammatory and antioxidant effects. It significantly reduces perceived stress and cortisol levels in chronically stressed adults, also improves sleeps and well-being.",
@@ -1275,7 +1275,7 @@
     },
     {
         "common_name":"Shatavari",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Asparagus racemosus",
         "short_description":["Flowering","Edible","Asparagaceae"],
         "Description":"It is a traditional Ayurvedic herb renowned for its nutritive and tonic properties. It's particularly celebrated for supporting lactation, improving immunity, and acting as a diuretic. The plant's roots, used in traditional medicine, are a staple in many Ayurvedic formulations, particularly for reproductive health and overall vitality.",
@@ -1287,7 +1287,7 @@
     },
     {
         "common_name":"Brahmi",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Bacopa monnieri",
         "short_description":["Flowering","Edible","Plantaginaceae"],
         "Description":"It is a creeping herb native to India, often called The Herb of Grace, prized for its cognitive and memory-enhancing properties in traditional Ayurvedic medicine. It's known for its ability to improve mental clarity, reduce stress, and enhance overall well-being. Brahmi contains several active compounds, including bacosides, alkaloids, flavonoids, and saponins. These compounds are thought to contribute to its cognitive-enhancing and stress-relieving properties.",
@@ -1299,7 +1299,7 @@
     },
     {
         "common_name":"Giloy/Guduchi",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Tinospora cordifolia",
         "short_description":["Flowering","Edible","Menispermaceae"],
         "Description":"It also known as Guduchi or Amrita, is a climbing shrub with heart-shaped leaves and a bitter taste, native to tropical and subtropical regions. It's a popular herb in Ayurveda and is believed to have various health benefits, including boosting immunity, aiding in detoxification, and supporting digestion.",
@@ -1311,7 +1311,7 @@
     },
     {
         "common_name":"Ginger",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Zingiber officinale",
         "short_description":["Flowering","Edible","Zingiberaceae"],
         "Description":"Ginger is a flowering plant, specifically a herbaceous perennial, known for its rhizome, or underground stem, which is widely used as a spice and in traditional medicine. The rhizome, often referred to as ginger root or ginger, has a spicy, citrusy flavor and aroma. Ginger is a member of the Zingiberaceae family, which also includes turmeric and cardamom.",
@@ -1323,7 +1323,7 @@
     },
     {
         "common_name":"Black pepper",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Piper nigrum",
         "short_description":["Flowering","Edible","Piperaceae"],
         "Description":"Black pepper, scientifically known as Piper nigrum, is a popular spice and condiment derived from the fruit of a perennial vine. It's a key ingredient in cuisines worldwide and has a long history of use in both culinary and medicinal applications. The peppercorn is the fruit of the plant, and its color and taste depend on how it's harvested, processed, and dried. Black pepper, in particular, is made from unripe, dried berries.",
@@ -1335,7 +1335,7 @@
     },
     {
         "common_name":"Garlic",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Allium sativum",
         "short_description":["Flowering","Edible","Amaryllidaceae"],
         "Description":"Garlic is a bulbous herb in the Allium genus, closely related to onions, leeks, and chives. It has a long history of use both as a culinary spice and a traditional medicine. Garlic is known for its pungent flavor and strong aroma, which are due to the presence of allicin, a compound that also contributes to its potential health benefits.",
@@ -1347,7 +1347,7 @@
     },
     {
         "common_name":"Cinnamon",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Cinnamomum verum",
         "short_description":["Flowering","Edible","Lauraceae"],
         "Description":"Cinnamon is a spice derived from the inner bark of trees belonging to the genus Cinnamomum. It's known for its warm, sweet, and slightly spicy flavor, and is widely used in both sweet and savory dishes. The most common types of cinnamon are Ceylon cinnamon and Cassia cinnamon, with Ceylon cinnamon being considered to have a more delicate and fragrant flavor.",
@@ -1359,7 +1359,7 @@
     },
     {
         "common_name":"Cardamom",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"elettaria cardamomum",
         "short_description":["Flowering","Edible","Zingiberaceae"],
         "Description":"Cardamom is a versatile spice derived from the seed pods of plants in the Elettaria and Amomum genera, both belonging to the Zingiberaceae family, which also includes ginger. These spice pods are known for their unique aromatic and flavor profile, often described as a warm, sweet, and citrusy blend. Cardamom is widely used in both sweet and savory dishes, as well as in various beverages and traditional remedies.",
@@ -1371,7 +1371,7 @@
     },
     {
         "common_name":"Turpentine Tree",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Pinus roxburghii",
         "short_description":["Flowering","Generally edible","Burseraceae"],
         "Description":"The turpentine tree refers to a few different species, but a common one is Syncarpia glomulifera, native to Australia. These trees are known for their durable, strong wood and for producing a resinous fluid from which oil of turpentine can be extracted. Another species, Pistacia terebinthus, is also called the turpentine tree or terebinth and is native to the Mediterranean region.",
@@ -1383,7 +1383,7 @@
     },
     {
         "common_name":"Isabgol (Psyllium)",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Plantago ovata",
         "short_description":["Flowering","Edible","Plantaginaceae"],
         "Description":"Isabgol also known as psyllium husk is a dietary fiber that helps to increase stool and promote laxation. It is one of the most commonly used home remedies for constipation. Isabgol is good for weight loss as it gives a feeling of fullness and helps prevent overeating.",
@@ -1395,7 +1395,7 @@
     },
     {
         "common_name":"Senna",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Cassia angustifolia",
         "short_description":["Flowering","Edible","Fabaceae"],
         "Description":"It is a plant known for its laxative properties, used traditionally to treat constipation and other digestive issues. It is a small herb or under-shrub that can grow up to 2 meters tall, with pale green to light brown stems, long branches, and pinnate leaves. The leaves and pods of the senna plant contain anthraquinone glycosides, particularly sennosides A and B, which are responsible for its stimulating effects on the intestines.",
@@ -1407,7 +1407,7 @@
     },
     {
         "common_name":"Glory lily",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Gloriosa superba",
         "short_description":["Flowering","Toxic","Colchicaceae"],
         "Description":"It is a striking, climbing lily native to Africa and Asia, characterized by its vibrant red, orange, or yellow flowers and its use in both traditional medicine and commercial production. It's a perennial herb, often reaching heights of up to 4 meters, with lance-shaped leaves and tendrils at their tips, aiding it in climbing. The flowers are large and showy, with six perianth lobes and wavy margins, making them attractive to pollinators like large insects and birds.",
@@ -1419,7 +1419,7 @@
     },
     {
         "common_name":"Rauvolfia",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Rauvolfia serpentina",
         "short_description":["Flowering","Edible","Apocynaceae"],
         "Description":"Rauvolfia is a genus of shrubs and trees, primarily found in tropical regions, with approximately 85 species. It's known for its medicinal properties, particularly its ability to lower blood pressure and act as a sedative due to the presence of alkaloids like reserpine, ajmaline, and serpentine. These alkaloids also have a calming effect on the central nervous system.",
@@ -1431,7 +1431,7 @@
     },
     {
         "common_name":"Solanum",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Solanum nigrum",
         "short_description":["Flowering","Edible","Solanaceae"],
         "Description":"Solanum is a large and diverse genus of flowering plants within the Solanaceae family (nightshade family), encompassing over 1,500 species. This genus includes important food crops like the potato, tomato, and eggplant. Some species are also known for their poisonous berries, like black nightshade.",
@@ -1443,7 +1443,7 @@
     },
     {
         "common_name":"Dioscorea",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Dioscorea spp.",
         "short_description":["Flowering","Edible","Dioscoreaceae"],
         "Description":"Dioscorea is a large genus of flowering plants, commonly known as yams, belonging to the family Dioscoreaceae. The genus includes over 600 species native to tropical and warm temperate regions worldwide, with the majority being tropical. Many Dioscorea species are cultivated as food crops, particularly in tropical and subtropical areas, and are a vital source of carbohydrates, minerals, vitamins, and fiber for millions of people.",
@@ -1455,7 +1455,7 @@
     },
     {
         "common_name":"Stevia",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Stevia rebaudiana bertoni",
         "short_description":["Flowering","Edible","Asteraceae"],
         "Description":"It is a naturally derived, zero-calorie sweetener extracted from the leaves of the stevia plant. It is known for its high sweetness, ranging from 100 to 300 times sweeter than sugar, due to the presence of steviol glycosides. Stevia has been used as a sweetener and sugar substitute in food and beverages for centuries.",
@@ -1467,7 +1467,7 @@
     },
     {
         "common_name":"Nux Vomica",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Strychnos nux-vomica",
         "short_description":["Flowering","Toxic","Loganiaceae"],
         "Description":"Nux vomica is an extract of the seeds of the Strychos nux-vomica or strychnine tree used in traditional and homeopathic medicine with purported benefits for a wide range of conditions including heart disease and cancer. People may also call the Strychnos nux-vomica tree the Vomiting nut or the Poison nut tree.",
@@ -1479,7 +1479,7 @@
     },
     {
         "common_name":"Guggul",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Commiphora mukul",
         "short_description":["Flowering","Edible","Burseraceae"],
         "Description":"Guggul is the gum resin found in various plants native to South Asia. It has been used for centuries in Ayurvedic medicine and may help to treat various health conditions, such as obesity, acne, and osteoarthritis. However, further research is still needed to confirm its effects. People in India have used it for thousands of years as an herbal medicine. Guggul has anti-inflammatory and antioxidative properties and is being explored as a potential cancer fighter.",
@@ -1491,7 +1491,7 @@
     },
     {
         "common_name":"Wild turpentine",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Pinus wallichiana",
         "short_description":["Flowering","Generally edible","Burseraceae"],
         "Description":"Wild turpentine refers to the resin, often in the form of oil, distilled from coniferous trees, particularly pines. This naturally occurring liquid, also known as spirit of turpentine or oil of turpentine, is a key component in various industries, including art, manufacturing, and medicine. While turpentine oil is often used as a solvent or thinning agent in paints and varnishes, it also has a long history of medicinal application, though with recognized risks. ",
@@ -1503,7 +1503,7 @@
     },
     {
         "common_name":"Madar",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Calotropis gigantea",
         "short_description":["Flowering","Toxic","Apocynaceae"],
         "Description":"It is a tall shrub or small tree native to tropical and subtropical regions. It's a resilient plant that thrives in arid environments, featuring oval, light green leaves and a milky stem. The plant's flowers are typically white or lavender, with a distinctive star-like shape. It's also known as Aak or Arka in Hindi. All parts of the madar plant are poisonous, including the latex, stem, branches, and leaves.",
@@ -1527,7 +1527,7 @@
     },
     {
         "common_name":"Black Gram",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Phaseolus mungo",
         "short_description":["Flowering","Edible","Fabaceae"],
         "Description":"Black gram, also known as urad or urd bean , is a significant pulse crop, particularly in India, where it's a staple food. It's known for its high protein content (around 26%), making it a nutritious addition to a vegetarian diet. Black gram is also used as fodder for animals and can be used as a green manure crop.",
@@ -1539,7 +1539,7 @@
     },
     {
         "common_name":"Indian madder",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Rubia cordifolia",
         "short_description":["Flowering","Edible","Rubiaceae"],
         "Description":"Also known as Manjishtha, is a climbing herb with a long history of medicinal and dyeing uses. Its roots, particularly, are rich in phytochemicals like anthraquinones, terpenes, and glycosides, which contribute to its various therapeutic properties. These compounds are believed to be responsible for its use in treating skin conditions, liver and gall bladder issues, and blood purification.",
@@ -1551,7 +1551,7 @@
     },
     {
         "common_name":"Madhuca",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Madhuca indica",
         "short_description":["Flowering","Edible","Sapotaceae"],
         "Description":"Madhuca is a genus of flowering trees in the Sapotaceae family, commonly known as the Mahua tree or Butter Tree. It is a multipurpose tropical tree, particularly important in Southern Asia for its edible flowers and oil-rich seeds. The plant has various medicinal uses, including wound healing, antimicrobial, antioxidant, and anti-inflammatory properties. Mahua trees are frost-resistant and can thrive in marginal areas, making them valuable for soil improvement and erosion control.",
@@ -1563,7 +1563,7 @@
     },
     {
         "common_name":"Asphodel",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Asphodelus compactus",
         "short_description":["Flowering","Generally edible","Asphodelaceae"],
         "Description":"They are hardy herbaceous perennials with narrow, grass-like leaves and a central stem bearing a spike of flowers. The flowers are usually white, pink, or yellow, with six petals. Has white flowers and grows to around 1.5 to 2 feet high. Also known as onionweed, has pink flowers and is similarly sized. Has fragrant yellow flowers and is often used in landscaping.",
@@ -1575,7 +1575,7 @@
     },
     {
         "common_name":"Green chiretta",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Swertia chirata",
         "short_description":["Flowering","Edible","Acanthaceae"],
         "Description":"It is an herb native to the temperate Himalayan region, particularly between Kashmir and Bhutan. It's a traditional medicinal plant with a bitter taste and is known for its potential medicinal properties. The herb is used in traditional systems of medicine like Ayurveda and Unani for various ailments like fever, digestive issues, and diabetes.",
@@ -1599,7 +1599,7 @@
     },
     {
         "common_name":"Sweet flag",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Acorus calamus",
         "short_description":["Flowering","Edible","Acoraceae"],
         "Description":"Sweet flag is a perennial, rhizomatous, iris-like herb. The erect, sharp-pointed, sword-shaped leaves fan- out from a pinkish base and grow to 5 feet in length. A cigar looking spadix (seed-head) is a unique characteristic of sweet flag. This aquatic plant will grow in water up to 3 feet deep. Ecologically, sweet flag provides spawning habitat for fish and serves as an important stabilizer against erosion.",
@@ -1611,7 +1611,7 @@
     },
     {
         "common_name":"Achyranthes",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Achyranthes aspera",
         "short_description":["Flowering","Edible","Amaranthaceae"],
         "Description":"Commonly known as Devil's Horsewhip, is a perennial herb in the amaranth family (Amaranthaceae). It's native to tropical and subtropical regions. Achyranthes is known for its erect, sometimes sprawling habit, with woody stems at the base and can grow up to 2 meters tall. It features opposite, simple, egg-shaped leaves that are often hairy. The plant has small, greenish-white flowers, sometimes tinged with purple-red, arranged in terminal spikes that elongate up to 60 cm. ",
@@ -1623,7 +1623,7 @@
     },
     {
         "common_name":"Blackboard tree",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Casia Fistula",
         "short_description":["Flowering","Generally edible","Apocynaceae"],
         "Description":"It is a large evergreen tree native to Southeast Asia, the Indian subcontinent, and southern China. It's also known as the Scholar Tree, Milkwood, or Devil's Tree. The tree gets its common name from the historical use of its soft wood for making writing slates and blackboards. The bark, leaves, and other parts of the tree have been used in traditional medicine for various ailments, including respiratory issues, fever, and skin problems.",
@@ -1647,7 +1647,7 @@
     },
     {
         "common_name":"Carica Papaya",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Carica papaya",
         "short_description":["Flowering","Edible","Caricaceae"],
         "Description":"Carica papaya, commonly known as papaya or pawpaw, is a tropical fruit-bearing tree native to Central America. It's characterized by a single, tall trunk and large, palmate leaves. The plant produces a sweet, yellow-orange fruit that can be enjoyed ripe or utilized unripe in various cuisines. Papaya plants are also known for their medicinal properties, with various parts of the plant used in traditional medicine. Various parts of the plant, including leaves, latex, and roots, have been used in traditional medicine for various ailments, including digestive issues, wound healing, and as a purgative.",
@@ -1659,7 +1659,7 @@
     },
     {
         "common_name":"Muskmallow",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Malva neglecta",
         "short_description":["Flowering","Generally edible","Malvaceae"],
         "Description":"Commonly known as Common Mallow or Dwarf Mallow, is an herbaceous plant in the Mallow family (Malvaceae). It can be an annual, winter annual, or biennial, growing to about 2 feet tall. The plant features rounded, palmately veined leaves with 5-7 lobes, and small, five-petaled, white, pink, or lavender flowers. The plant has been used in traditional medicine for various ailments, including inflammation, sore throats, and digestive issues.",
@@ -1671,7 +1671,7 @@
     },
     {
         "common_name":"Atis/Ativisha",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Aconitum Heterophyllum",
         "short_description":["Flowering","Toxic","Ranunculaceae"],
         "Description":"It is a medicinal herb native to the Himalayan region, known for its various therapeutic properties and uses in traditional medicine systems like Ayurveda. While it contains some toxic compounds, it is also revered for its medicinal value, particularly in pediatric disorders. Stimulates digestion and reduces toxin accumulation.  Possesses anti-inflammatory properties, useful in various conditions. Effective in reducing fever. Enhances the body's immune response.",
@@ -1683,7 +1683,7 @@
     },
     {
         "common_name":"Black Cardamom",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Amomum Subulatum",
         "short_description":["Flowering","Edible","Zingiberaceae"],
         "Description":"It is a spice with a smoky, earthy, and pungent flavor, distinct from green cardamom. It's larger and has a wrinkly, dark brown to black exterior. Black cardamom is native to the Eastern Himalayas and is primarily grown in Nepal, Bhutan, and parts of India. It's used in both savory and sweet dishes, often in curries, stews, rice, and spice blends like garam masala. Black cardamom is known for its potential digestive benefits, respiratory soothing properties, and may help with halitosis (bad breath). Some traditional uses also include potential for treating stomach disorders and malaria.",
@@ -1695,7 +1695,7 @@
     },
     {
         "common_name":"Green Amarantha",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Amaranthus Tristis",
         "short_description":["Flowering","Edible","Amaranthaceae"],
         "Description":"It is also known as green pigweed or slender amaranth, is an annual herb often found in disturbed areas and fields. It has light green leaves with notched tips and produces small, green or reddish flowers in dense, elongated clusters. The plant can grow up to 1 meter tall and is a prolific seeder, making it a common weed. While often considered a weed, green amaranth is also used as a food plant, with both the young leaves and seeds being edible and nutritious. The seeds can be used to make flour, and the leaves can be cooked like spinach.",
@@ -1707,7 +1707,7 @@
     },
     {
         "common_name":"Wild Celery",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Angelica Archangelica",
         "short_description":["Flowering","Edible","Apiaceae"],
         "Description":"It is a tall perennial herb. It's native to Europe and Asia, reaching heights of up to 2 meters with large, fern-like leaves. The plant has been used for both culinary and medicinal purposes for centuries. The young shoots, stems, and root can be eaten, having a sweet, licorice-like flavor. They are used in salads, jams, and candy. It used for various ailments, including digestive issues, circulation problems, and respiratory conditions. Some people use it for quitting smoking, memory decline, and arthritis, but there's not enough scientific evidence to support these uses. Some members of the Angelica genus contain furocoumarins, which can make skin more sensitive to sunlight.",
@@ -1719,7 +1719,7 @@
     },
     {
         "common_name":"Axle-wood Tree/Indian Gum Tree",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Anogeissus Latifolia",
         "short_description":["Flowering","Generally edible","Combretaceae"],
         "Description":"It is a deciduous tree native to the Indian subcontinent. It's a medium-sized tree, often found in dry and rocky regions. Anogeissus latifolia is valued for its gum (gum ghatti), wood, and traditional medicinal properties. The wood is strong and hard, making it suitable for making wheels, tools, and handles. It's also used as fuel wood. Anogeissus latifolia is a major source of gum ghatti, which is used in various industries like food, pharmaceuticals, and paper. In traditional medicine, various parts of the tree, including bark and gum, have been used to treat conditions like diabetes, dysentery, and skin diseases.",
@@ -1731,7 +1731,7 @@
     },
     {
         "common_name":"Burflower Tree",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Anthocephalus indicus",
         "short_description":["Flowering","Generally edible","Tiliaceae"],
         "Description":"It  is a large, deciduous tree native to South and Southeast Asia. It's also known as Kadamb or Kadam, and it has a distinctive appearance with a straight trunk, dense foliage, and fragrant, orange flowers that bloom during the monsoon season. The Kadamb tree has various traditional uses, including medicinal properties and its use in crafting and construction. The tree produces sweet-smelling orange flowers in dense, globular clusters. These flowers are commonly used in making perfumes and are considered sacred in Hinduism.",
@@ -1743,7 +1743,7 @@
     },
     {
         "common_name":"Breadfruit",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Artocarpus Communis",
         "short_description":["Flowering","Edible","Moraceae"],
         "Description":"Also known as Ulu in Hawaii, is a starchy fruit from a tropical evergreen tree in the mulberry family. It's a significant food source in many tropical regions, particularly the Pacific Islands and the Caribbean, where it's grown in both dooryards and commercially. Breadfruit trees can reach up to 20 meters in height and yield a substantial amount of fruit, making them a sustainable crop with minimal maintenance needs. Breadfruit is rich in carbohydrates, fiber, protein, and essential minerals like calcium, iron, and vitamin C. It's a good source of complex carbohydrates and provides a variety of essential amino acids.",
@@ -1755,7 +1755,7 @@
     },
     {
         "common_name":"Bloodroot",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Sanguinaria candadensic",
         "short_description":["Flowering","Toxic","Papaveraceae"],
         "Description":"It's characterized by its bright white flowers, large, lobed leaves, and most notably, the red sap it produces when cut. This sap contains chemicals with medicinal properties, historically used by Native Americans and more recently incorporated into some dental products. Used for pain relief, wound healing, and tonification of blood. Contains sanguinarine, an alkaloid used in some toothpastes and mouthwashes to reduce plaque and gingivitis. Sap has been used for dyes, and the plant has been used to treat various conditions, including warts and skin cancer. Bloodroot contains toxic alkaloids, and excessive use or ingestion can be harmful. It should only be used under the guidance of a qualified healthcare professional.",
@@ -1767,7 +1767,7 @@
     },
     {
         "common_name":"Saffron",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Crocus sativus",
         "short_description":["Flowering","Edible","Iridaceae"],
         "Description":"Saffron is a perennial herb, a member of the Iris family, specifically the Crocus sativus species. It's renowned as the world's most expensive spice due to the labor-intensive hand-harvesting of the red stigmas, which are the dried part of the plant used for culinary and medicinal purposes. Saffron is used for coloring, flavoring, and medicinal applications, with some regions, like Kashmir in India, known for its high-quality saffron. Saffron contains antioxidants that can help protect cells from damage. Research suggests saffron may be beneficial for brain and nervous system health. Saffron has been used traditionally for various ailments, including depression, anxiety, and menstrual problems.",
@@ -1779,7 +1779,7 @@
     },
     {
         "common_name":"Musli",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Chlorophytum borivilianum",
         "short_description":["Flowering","Edible","Asparagaceae"],
         "Description":"It is a perennial herb with a short hard root stocks; roots often thick, fleshy and cylindrical. The leaves are 15-35 cm long and oblanceolate. The plant is considered endangered species in the country. Inflorescence is dense; flowers are arranged in raceme and shortly branched. Safed musli or White musli is a wildly grown white-colored herb. It is often referred to as White Gold or Divya aushad. Safed musli is used popularly to improve sexual performance and general overall health in both men and women.",
@@ -1791,7 +1791,7 @@
     },
     {
         "common_name":"Asian Ginseng",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Panax ginseng",
         "short_description":["Flowering","Edible","Araliaceae"],
         "Description":"It is a perennial plant, primarily cultivated for medicinal purposes. The root, which is the source of ginseng, is dried and used to make various preparations including teas, tablets, capsules, and extracts. Ginseng is often considered an adaptogen, meaning it's believed to help the body resist stress, both physical and psychological. It has been used as a tonic to improve overall health and restore balance. Studies have suggested that ginseng may have antioxidant properties, potentially protecting tissues from damage, especially in cancer patients undergoing chemotherapy.",
@@ -1815,7 +1815,7 @@
     },
     {
         "common_name":"Tulip",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Tulipa",
         "short_description":["Flowering","Pet-friendly","Liliaceae"],
         "Description":"Tulips are vibrant, cup-shaped flowers that are popular spring blooms, known for their diverse colors and forms. They are perennial herbaceous plants that grow from bulbs. The word Tulip comes from a Turkish word for turban, referring to the flower's shape. Tulip flowers come in a wide range of colors, including red, yellow, pink, orange, purple, and even shades of brown and black. Some tulips exhibit streaks or patterns due to a viral infection, resulting in a broken or variegated appearance.",
@@ -1827,7 +1827,7 @@
     },
     {
         "common_name":"Daffodil",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Narcissus",
         "short_description":["Flowering","Toxic","Amaryllidaceae"],
         "Description":"Daffodils are perennial, spring-flowering bulbs with bright, cheery blooms. They typically feature a single, large yellow flower on a long green stalk, with green leaves growing from the base of the stem. The flower's crown, or corona, is a distinct, trumpet-shaped feature, often contrasting with the outer petals (tepals). There are numerous species and varieties of daffodils, with flowers ranging from bright yellow to white, pink, and even orange.",
@@ -1839,7 +1839,7 @@
     },
     {
         "common_name":"Iris",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Iris",
         "short_description":["Flowering","Mildly toxic","Iridaceae"],
         "Description":"Irises are a diverse genus of flowering plants, characterized by their vibrant and showy blooms, often with a distinctive three-petal and three-sepal structure. They can be found in both rhizomatous (creeping underground stems) and bulbous forms, with many species thriving in a variety of climates. Irises have highly specialized flower structures, including falls (outer petals) and standards (inner petals). There are numerous species, with variations in flower colors, size, and growth habits.",
@@ -1851,7 +1851,7 @@
     },
     {
         "common_name":"Lily",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Lilium",
         "short_description":["Flowering","Highly Toxic","Liliaceae"],
         "Description":"Lilies are a genus of flowering plants known for their beautiful and often fragrant flowers. They are tall perennials, typically growing from bulbs, and come in a variety of colors and shapes. Lilies are significant in many cultures, often associated with love, purity, and fertility. Lilies come in a wide array of colors, including white, yellow, orange, pink, red, and purple. There are various varities of lilies like: Madonna lily, Easter lily, Stargazer lily, Tiger lily, Turk's cap lily etc.",
@@ -1863,7 +1863,7 @@
     },
     {
         "common_name":"Poinsettia",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Euphorbia pulcherrima",
         "short_description":["Flowering","Mildly toxic","Euphorbiaceae"],
         "Description":"Poinsettias are popular holiday plants known for their vibrant red bracts, which are actually modified leaves, not true petals. They are a deciduous to semi-evergreen shrub or small tree. While commonly grown as potted plants, they can grow up to 10 feet tall in their natural habitat.  While not highly toxic, the sap can cause skin irritation in some individuals, especially those with latex allergies.",
@@ -1875,7 +1875,7 @@
     },
     {
         "common_name":"Peony",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Paeonia",
         "short_description":["Flowering","Pet-friendly","Paeoniaceae"],
         "Description":"Peonies are a captivating genus of flowering plants, prized for their large, showy blossoms that grace gardens and floral arrangements. They are known for their vibrant colors, ranging from white and pink to red, yellow, and even purple, with many varieties also boasting a delightful fragrance. Peonies typically bloom in late spring and early summer, offering a spectacular display of color for a brief but memorable period. Peonies are categorized into herbaceous (die back in winter) and tree peonies (woody stems and remaining active throughout winter).",
@@ -1887,7 +1887,7 @@
     },
     {
         "common_name":"Bleeding Heart",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Lamprocapnos spectabilis",
         "short_description":["Flowering","Toxic","Papaveraceae"],
         "Description":"Bleeding heart, or Lamprocapnos spectabilis, is a popular perennial plant renowned for its delicate, heart-shaped flowers that hang from arching stems. These plants are known for their spring blooms and are often grown as shade-garden ornamentals. The foliage is fern-like and divided into three leaflets, providing a soft, textured backdrop to the delicate blooms. Bleeding hearts can be susceptible to pests like aphids and slugs. All parts of the bleeding heart plant are poisonous if ingested, so it's important to keep them out of reach of children and pets.",
@@ -1899,7 +1899,7 @@
     },
     {
         "common_name":"Zinnia",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Zinnia",
         "short_description":["Flowering","Pet-friendly","Asteraceae"],
         "Description":"All parts of the bleeding heart plant are poisonous if ingested, so it's important to keep them out of reach of children and pets. Zinnias are easy to grow from seed and prefer full sun and well-drained soil. They attract pollinators like butterflies and hummingbirds, and are deer and rabbit-resistant. Zinnias come in a vast array of colors, including red, yellow, orange, pink, and more. They can range from small, low-growing varieties to taller, giant forms.",
@@ -1923,7 +1923,7 @@
     },
     {
         "common_name":"Honeysuckle",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Lonicera",
         "short_description":["Flowering","Mildly toxic","Caprifoliaceae"],
         "Description":"Honeysuckle is a popular flowering shrub or vine known for its beautiful, fragrant flowers and various uses, both ornamental and medicinal. It comes in a wide variety of species, some of which are climbers, while others are evergreen shrubs. The plant's flowers, leaves, and berries have been used traditionally in various cultures for their medicinal properties. Some honeysuckle species are climbing vines, while others are shrubs. Honeysuckle flowers, leaves, and berries have been used traditionally for various medicinal purposes, including treating digestive disorders, respiratory infections, and bacterial or viral infections.",
@@ -1935,7 +1935,7 @@
     },
     {
         "common_name":"Crocus",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Crocus",
         "short_description":["Flowering","Some toxic","Iridaceae"],
         "Description":"Crocus is a genus of flowering plants in the Iridaceae family, commonly known as saffron. These plants are perennial, growing from corms, and are known for their vibrant, cup-shaped blooms, often in shades of white, yellow, orange, purple, or lilac. They are low-growing and typically appear in autumn, winter, or spring, closing their flowers at night and in overcast conditions. Many Crocus species are cultivated for their flowers. Crocus species bloom at different times, with some blooming in autumn, others in winter, and still others in spring. Saffron has been used in traditional medicine for various purposes, including as an analgesic, sedative, and for other conditions.",
@@ -1947,7 +1947,7 @@
     },
     {
         "common_name":"Foxglove",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Digitalis",
         "short_description":["Flowering","Highly Toxic","Plantaginaceae"],
         "Description":"It's known for its tall flower spikes bearing bell-shaped flowers, which are often purple, pink, or white and can be marked with spots inside. Foxglove is also a source of the heart medicine digoxin, but all parts of the plant are poisonous. Despite being toxic, foxglove is the source of the heart medication digoxin (also called digitalis or digitalin). This drug is used to treat irregular heartbeat and heart failure.",
@@ -1959,7 +1959,7 @@
     },
     {
         "common_name":"Karvi",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Strobilanthes Callosus",
         "short_description":["Flowering","Pet-friendly","Asteraceae"],
         "Description":"It is a unique wildflower found in the Western Ghats region of India, known for its rare and intermittent blooming cycle, which can occur every 7-8 years. When it does bloom, the plants transform the landscape into a vibrant purple tapestry, attracting insects and butterflies. The leaves and stems are sometimes used by local communities for thatched roofs. The leaves have been traditionally used for medicinal purposes, with the juice believed to help with stomach ailments. Due to its intermittent blooming cycle, the Karvi plant is the subject of conservation efforts, including protected areas, research initiatives, and community involvement.",
@@ -1971,7 +1971,7 @@
     },
     {
         "common_name":"Lotus",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Nelumbo Nucifera",
         "short_description":["Flowering","Pet-friendly","Nelumbonaceae"],
         "Description":"The lotus, a vibrant aquatic flower, holds a place of reverence and symbolic importance across many cultures. Known for its ability to emerge from muddy waters, it symbolizes purity, spiritual awakening, and rebirth. The lotus plant itself is an aquatic perennial with large, rounded leaves that float on the water's surface and stems that reach up to the water's surface. The flowers, typically white or pink, have numerous petals and are often used in religious offerings and decorations.  Parts of the lotus plant, including the seeds and rhizomes, are edible and used in various culinary traditions.",
@@ -1983,7 +1983,7 @@
     },
     {
         "common_name":"Neelkamal",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Nymphea nouchali",
         "short_description":["Flowering","Pet-friendly","Nymphaeceae"],
         "Description":"Also known as Blue Water lily, it is a captivating aquatic plant native o Indian subcontinent and Sri Lanka. It's renowned for its beautiful blue flowers and holds significant cultural and medicinal importance in the region. Neelkamal has been used in traditional Ayurvedic and Siddha medicine for various purposes. It's a day-blooming plant, with flowers opening during the mid-morning and closing near dusk.",
@@ -1995,7 +1995,7 @@
     },
     {
         "common_name":"Neelakurinji",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Strobilanthes Kunthiana",
         "short_description":["Flowering","Pet-friendly","Acanthaceae"],
         "Description":"It  is a blue-purple flowering shrub found in the high-altitude shola grasslands of the Western Ghats in South India. It's known for its rare and synchronous blooming cycle, which occurs once every 12 years. The name Neelakurinji translates to Blue Flower in Malayalam. Neelakurinji is classified as Vulnerable on the IUCN Red List due to habitat loss, climate change, and human activities. Reproduction occurs only once in a lifetime before the plant dies, a phenomenon known as mast seeding. ",
@@ -2007,7 +2007,7 @@
     },
     {
         "common_name":"Snow Lotus",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Saussurea Tridactyla",
         "short_description":["Flowering","Pet-friendly","Asteraceae"],
         "Description":"It is a rare and resilient high-altitude flowering plant found in the Himalayas, Tibet, and western China. It's known for its medicinal properties and is part of traditional Chinese and Tibetan medicine, used for conditions like headaches, high blood pressure, and menstrual problems. Snow Lotus is also used in aromatherapy, and its essential oils are prized for their fragrance and potential therapeutic benefits. It is used for a variety of ailments including headaches and high blood pressure, Rheumatism, menstrual problems and regulating cycles, anti-inflammatory and antioxidant properties. Snow Lotus essential oils are produced through distillation, often using artisan techniques to preserve the plant's fragrance and therapeutic properties. The oils can be used for inhalation, topical application, or in blends for various purposes.",
@@ -2019,7 +2019,7 @@
     },
     {
         "common_name":"Rebe Flower",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Begonia Tessaricarpa",
         "short_description":["Flowering","Pet-friendly","Begoniaceae"],
         "Description":"It is a rare and endangered plant native to the Western Ghats of India. It is characterized by its beautiful orange and yellow petals and is found in specific, limited areas within the region. Rebe flowers are threatened by habitat loss and over-collection, making them a critically important species for conservation efforts.",
@@ -2031,7 +2031,7 @@
     },
     {
         "common_name":"Law's Ceropegia",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Ceropegia lawii",
         "short_description":["Flowering","Pet-friendly","Apocynaceae"],
         "Description":"Also known as Marathi Kharpudi, is known for its large, fresh green leaves and its purple-inside, white-outside flowers. It has white lantern-shaped flowers with a curved, closed bowl shape, purple inside the tube. Considered endangered due to over-collection of tubers by local populations.",
@@ -2043,7 +2043,7 @@
     },
     {
         "common_name":"Himalayan Blue Poppy",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Meconopsis Aculeata",
         "short_description":["Flowering","Possibly toxic","Papaveraceae"],
         "Description":"It is a rare and striking flowering plant native to the high-altitude regions of the Himalayas. It's known for its vibrant blue flowers, which are quite unusual in the plant world, and its specific cultivation requirements make it challenging to grow outside its natural environment. Many species bloom in late spring or early summer. The blue poppy is highly sought after for its beauty and rarity, leading to overexploitation in some areas.",
@@ -2055,7 +2055,7 @@
     },
     {
         "common_name":"Tapioca/Cassava",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Manihot utilissima",
         "short_description":["Flowering","Toxic if raw","Euphorbiaceae"],
         "Description":"It is a woody shrub, widely cultivated in tropical and subtropical regions for its edible tuberous roots. Cassava produces unisexual flowers in terminal inflorescences (flower clusters). The flowers are greenish, sometimes tinged orange-red, and often have purplish veining. The roots are a major source of carbohydrates and are consumed as a staple food in many parts of the world. They can be boiled, roasted, fried, or used to make flour or starch. The leaves can also be consumed, although they contain cyanogenic glucosides, which can be detoxified through processing.",
@@ -2067,7 +2067,7 @@
     },
     {
         "common_name":"Lantana camara",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Lantana",
         "short_description":["Flowering","Toxic","Verbenaceae"],
         "Description":"It is highly variable and often invasive shrub. It's a perennial plant with a scrambling or woody habit, typically growing up to 4 meters (13 feet) tall. The plant has distinctive four-angled stems, often with recurved prickles, and its leaves are simple, opposite, and have rough, serrated margins. Lantana camara is known for its bright, multi-colored flowers, often attracting insects like butterflies and bees. oisonous to livestock in large doses.",
@@ -2079,7 +2079,7 @@
     },
     {
         "common_name":"Water Hyacinth",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Eicchornia crassipes",
         "short_description":["Flowering","Pet-friendly","Pontederiaceae"],
         "Description":"It is a free-floating aquatic plant with thick, glossy leaves and feathery, dark purple or black roots. It reproduces vegetatively through runners and also produces many seeds. This plant is known for its rapid growth and ability to form dense mats on the water surface, which can negatively impact aquatic ecosystems.  Its rapid growth can choke waterways, reduce oxygen levels, and disrupt aquatic ecosystems. Despite its negative impacts, water hyacinth is also used for wastewater treatment and as a source of biomass.",
@@ -2091,7 +2091,7 @@
     },
     {
         "common_name":"Congress Grass/Carrot Grass",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Parthenium hysterophorus",
         "short_description":["Flowering","Toxic","Asteraceae"],
         "Description":"It is a highly invasive and annual weed. The plant is easily recognized by its pale green, deeply lobed leaves, small white flowers, and ability to thrive in various soil and weather conditions. It's a significant threat to biodiversity and the environment due to its aggressive growth and prolific seed production. Each flower contains multiple wedge-shaped, black seeds, capable of germinating quickly without a dormancy period. A single plant can produce over 100,000 seeds. Some individuals are allergic to P. hysterophorus pollen, causing skin rashes and respiratory issues.",
@@ -2103,7 +2103,7 @@
     },
     {
         "common_name":"Ironwood",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Peltophorum ferrugineum",
         "short_description":["Flowering","Pet-friendly","Fabaceae"],
         "Description":"It is known for its incredibly hard and durable wood, often exceeding the density of water.  The wood's strength and resistance to rot make it valuable for various applications, from woodworking to traditional crafts. any ironwood species are slow-growing trees. In some cultures, ironwood has been used for building structures, crafting tools, and medicinal purposes.",
@@ -2115,7 +2115,7 @@
     },
     {
         "common_name":"Tropical hibiscus",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Hibiscus rosa-sinensis",
         "short_description":["Flowering","Pet-friendly","Malvaceae"],
         "Description":"It is a vibrant flowering plant native to tropical and subtropical regions, prized for its large, showy blooms. It's a common ornamental plant, often seen in gardens and as house plants, known for its glossy green leaves and a variety of flower colors. Beyond their ornamental value, Hibiscus has various traditional and medicinal uses, including being used in teas, extracts, and even as a dye. There are numerous cultivars of Tropical Hibiscus, with variations in flower size, color, and bloom patterns.",
@@ -2127,7 +2127,7 @@
     },
     {
         "common_name":"Brugmansia/Angel's Trumpet",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Brugmansia spp.",
         "short_description":["Flowering","Highly Toxic","Solanaceae"],
         "Description":"It is a genus of tropical evergreen shrubs or small trees in the nightshade family. It's characterized by its large, fragrant, trumpet-shaped, pendulous flowers and is often cultivated for its ornamental beauty. All parts of the plant are poisonous, containing tropane alkaloids like atropine, scopolamine, and hyoscyamine, that can cause various symptoms, including dilated pupils, confusion, and hallucinations. Historically, Brugmansia has been used in traditional medicine for various ailments, including muscle relaxant and pain relief. Some species are also known to contain hallucinogenic compounds.",
@@ -2139,7 +2139,7 @@
     },
     {
         "common_name":"Heliconia",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Heliconia spp.",
         "short_description":["Flowering","Pet-friendly","Heliconiaceae"],
         "Description":"These are tropical flowering plants known for their vibrant, colourful bracts (modified leaves) that often resemble lobster claws or parrot beaks. Heliconias are valued for their ornamental use, especially in gardens, cut flower arrangements, and as potted plants. They are often pollinated by hummingbirds. Some Heliconia species have edible bracts and are used in traditional dishes in certain regions.",
@@ -2163,7 +2163,7 @@
     },
     {
         "common_name":"Indian Ebony",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Diospyros celibica",
         "short_description":["Flowering","Pet-friendly","Ebenaceae"],
         "Description":"It is valued for its dense, dark wood. The wood is known for its black color (heartwood) and distinctive light-colored stripes, making it highly sought after for luxury goods like furniture, carvings, and musical instruments (like guitar fingerboards). The wood is prized for its high strength, hardness, and resistance to decay and insects. The plant and its parts have been used traditionally in various cultures for medicinal purposes, such as treating hemorrhages, incontinence, and insomnia.",
@@ -2175,7 +2175,7 @@
     },
     {
         "common_name":"Stinking Passion Flower",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Passiflora foetida",
         "short_description":["Flowering","Pet-friendly","Passifloraceae"],
         "Description":"It is a climbing vine with an unpleasant odor when its foliage is damaged, and can act as invasive weed.  The plant has distinctive three-to-five-lobed leaves and flowers similar to passionfruit, with cream petals and white, pink, or purple centers. The plant has been used in traditional medicine for various ailments, including skin diseases, digestive problems, and nervous disorders. The fruit is edible and tastes similar to passionfruit, but with less acidity and perfume.",
@@ -2187,7 +2187,7 @@
     },
     {
         "common_name":"Red Torch Ginger",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Etlingera elatior",
         "short_description":["Flowering","Pet-friendly","Zingiberaceae"],
         "Description":"It is a striking tropical plant known for its vibrant, red, cone-shaped inflorescences, which resemble torches. These showy bracts surround the true, small yellow flowers, making it a popular choice for gardens and landscaping. The plant also has long, banana-like leaves and is a member of the ginger family. The bracts and stalks can be used in cooking, adding a zesty, citrusy flavor to dishes like curries and soups, especially in Southeast Asian cuisine. Some traditional uses include medicinal properties, although more research is needed to confirm them.",
@@ -2199,7 +2199,7 @@
     },
     {
         "common_name":"Birdsfoot Trefoil",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Lotus Corniculatus",
         "short_description":["Flowering","Pet-friendly","Fabaceae"],
         "Description":"It is a perennial legume known for its distinctive seed pods resembling bird feet. It's a low-growing plant with bright yellow, pea-shaped flowers and leaves with five leaflets, the lower two often bent back, giving a trefoil appearance. The defining characteristic is the seed pods, which are cylindrical and extend outward at right angles from the stem, creating the bird's foot appearance. It's a valuable food source for pollinators like bees and butterflies, and is also grazed by livestock. It can also be used as a groundcover, soil stabilizer, and forage or cover crop.",
@@ -2211,7 +2211,7 @@
     },
     {
         "common_name":"Calla Lily/Arum Lily",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Zantedeschia rehmannii",
         "short_description":["Flowering","Toxic","Araceae"],
         "Description":"Calla lilies are striking perennial plants, known for their elegant, trumpet-shaped flowers and lush green foliage, making them popular for gardens, floral arrangements, and as houseplants. Calla lilies are herbaceous or semi-evergreen and grow from rhizomes. The leaves are broad, arrow-shaped, and typically dark green with a glossy texture, providing a lush backdrop to the blooms. Calla lilies are popular as cut flowers, in garden borders, and even in containers. They can also be used to create tropical-themed gardens.",
@@ -2223,7 +2223,7 @@
     },
     {
         "common_name":"Celosia Purple",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Celosia argentea spicata",
         "short_description":["Flowering","Pet-friendly","Amaranthaceae"],
         "Description":"Commonly known as cockscomb or woolflower, is a plant with vibrant, unusual flower heads that come in a range of colors, including a striking purple. The purple varieties, like Cristi Purple, are known for their deep, velvety color and sturdy stems. The flower heads themselves are distinctive, resembling a rooster's comb or a brain with velvety curls. Celosia is a warm-weather plant that thrives in full sun and well-drained soil, and can be grown from seed. The long-lasting blooms and sturdy stems make celosia a great cut flower, and the purple varieties, in particular, are prized for their vibrant color. In some regions, the flowers and leaves are edible.",
@@ -2235,7 +2235,7 @@
     },
     {
         "common_name":"Cobra Lily",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Darlingtonia californica",
         "short_description":["Flowering","Carnivorous","Araceae"],
         "Description":"It is a carnivorous plant, known for  its striking, hooded pitcher-like leaves that resemble a rearing cobra. These plants thrive in bogs and streambanks and rely on trapping and digesting insects for nutrients, especially nitrogen, due to the poor soil conditions where they grow. Unlike some other carnivorous plants, Darlingtonia relies on bacteria to break down the digested prey. Darlingtonia goes dormant during winter, and leaf edges may brown.",
@@ -2247,7 +2247,7 @@
     },
     {
         "common_name":"Malabar tamarind",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Garcinia cambogia",
         "short_description":["Flowering","Edible","Clusiaceae"],
         "Description":"Malabar tamarind, also known as Kudampuli or Brindleberry, is a tropical fruit native to Southeast Asia and India. It's not actually related to traditional tamarind but belongs to the Garcinia family, with the scientific name Garcinia gummi-gutta. The fruit is small, round, and green or yellow, with a tangy, sour taste. It's used in various culinary applications, particularly in South Asian cuisine, as a souring agent and to impart a unique flavor to dishes like curries and chutneys. Additionally, it's gaining popularity as a natural ingredient in weight loss supplements due to its hydroxycitric acid (HCA) content.",
@@ -2259,7 +2259,7 @@
     },
     {
         "common_name":"Umbrella Thorn Babool",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Acacia planifrons",
         "short_description":["Flowering","Pet-friendly","Fabaceae"],
         "Description":"It is a drought-tolerant tree, known for its distinctive umbrella-shaped canopy, which can reach heights of up to 21 meters. The tree is characterized by its rough, fissured bark, and it possesses both long, straight and shorter, hooked thorns.  The flowers are small, cream or white, and occur in heads in leaf axils. Seeds are produced in flat, twisted pods that assemble into a spring-like structure. The wood is durable and used for various purposes, including tool handles, boat lumber, and furniture. The tree's bark can be used to make string and is a good source of tannins.",
@@ -2271,7 +2271,7 @@
     },
     {
         "common_name":"Pink Princess",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Philodendron erubescens",
         "short_description":["Flowering","Toxic","Araceae"],
         "Description":"It is a rare and highly sought-after houseplant known for its striking, variegated foliage. Its heart-shaped leaves feature a blend of dark green and vibrant pink, creating a unique and eye-catching display. The variegation can vary in intensity, with some leaves showing more pink than others. Like other philodendrons, it can contribute to improving indoor air quality. Due to its unique appearance and relatively low availability, it's considered a coveted plant among enthusiasts.",
@@ -2283,7 +2283,7 @@
     },
     {
         "common_name":"Bigleaf Hydrangea",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Hydrangea macrophylla",
         "short_description":["Flowering","Toxic","Hydrangeaceae"],
         "Description":"They are deciduous shrubs known for their large, showy flower heads, typically found in shades of pink, blue, and purple, though some cultivars have white flowers. These plants are popular for their easy care and vibrant blooms, and they come in two main types: mopheads and lacecaps. Most cultivars bloom in late spring and summer, with some newer varieties flowering on new wood throughout the season.",
@@ -2295,7 +2295,7 @@
     },
     {
         "common_name":"Dragon Tail/Tongavine",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Epipremnum pinnatum",
         "short_description":["Flowering","Toxic","Araceae"],
         "Description":"Dragon Tail is a vining plant known for its unique, mature leaves that resemble a dragon's tail. A popular houseplant, it thrives in humid environments, often with semi-epiphytic tendencies, meaning it can grow on other plants or structures. This plant also goes by names like centipede tongavine, taro vine, silver vine, and tibatib in the Philippines. While they can be grown outdoors in warmer climates (USDA hardiness zones 9 and higher), they can be invasive and should be planted in containers to prevent them from spreading.",
@@ -2307,7 +2307,7 @@
     },
     {
         "common_name":"Dragon Fruit",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Selenicereus undatus",
         "short_description":["Flowering","Edible","Cactaceae"],
         "Description":"Dragonfruit, also known as pitaya, is a tropical fruit that stands out with its unique appearance and taste. It's recognized by its bright red, purple, or yellow skin covered in prominent scales. The flesh can be white or red, dotted with tiny black seeds, and has a subtly sweet flavor, often described as a blend of kiwi and pear.  Dragonfruit can be found with vibrant red, purple, or yellow skin. The flesh can be white or red, with many small, edible black seeds. Dragonfruit is relatively low in calories and high in fiber. It's a good source of antioxidants, including lycopene, which may offer health benefits.",
@@ -2319,7 +2319,7 @@
     },
     {
         "common_name":"Mangosteen",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Garcinia mangostana",
         "short_description":["Flowering","Edible","Clusiaceae"],
         "Description":"It is a tropical fruit known for its sweet and slightly tart flavor and distinctive appearance. It's characterized by a hard, purple rind that encloses white segments of juicy flesh. The fruit is often called the Queen of fruits due to its unique taste and appearance. The fruit is rich in antioxidants, particularly xanthones. In traditional medicine, mangosteen has been used for various purposes, including treating stomach ulcers and infections.",
@@ -2331,7 +2331,7 @@
     },
     {
         "common_name":"Rambutan",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Nephelium lappaceum",
         "short_description":["Flowering","Edible","Sapindaceae"],
         "Description":"Rambutan is a tropical fruit with a hairy, reddish or yellowish exterior. It's known for its sweet, slightly acidic, translucent white flesh and a single brown seed. The name Rambutan comes from the Malay word for hair, referring to the soft, pliable spines covering the fruit's outer shell. Rambutans are a good source of Vitamin C, copper, and dietary fiber. They also contain smaller amounts of iron, phosphorus, manganese, and magnesium. The fruit is rich in potassium, which helps maintain blood pressure. Rambutans may offer health benefits like improved digestion, weight loss, and immune support. The seeds can be roasted and eaten as a snack.",
@@ -2343,7 +2343,7 @@
     },
     {
         "common_name":"Lychee",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Litchi chinensis",
         "short_description":["Flowering","Edible","Sapindaceae"],
         "Description":"Lychee is a small, tropical fruit known for its sweet and floral flavor, as well as its unique, bumpy, red-tinged skin. It's a member of the soapberry family and is particularly popular in Asian cuisine. The edible portion is a white to translucent flesh surrounding a large, inedible seed. Lychees are a good source of vitamin C, fiber, and some antioxidants. They are mainly composed of water and carbohydrates.",
@@ -2355,7 +2355,7 @@
     },
     {
         "common_name":"Avocado",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Persea americana",
         "short_description":["Flowering","Toxic to pets","Lauraceae"],
         "Description":"Avocado is a popular fruit known for its smooth, creamy texture, mild flavor, and nutritional benefits. It's a single-seeded berry with a large pit, and while often mistaken for a vegetable, it's botanically a fruit. Avocados are a good source of monounsaturated fats, fiber, and various vitamins and minerals like potassium and vitamin K. Research suggests that avocados may have benefits for heart health, cholesterol levels, and even potentially reducing the risk of certain diseases. There are various types of avocados, with the Hass avocado being a popular variety known for its round shape and dark, rough skin.",
@@ -2367,7 +2367,7 @@
     },
     {
         "common_name":"Mulberry",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Morus",
         "short_description":["Flowering","Edible","Moraceae"],
         "Description":"Mulberry is a plant of the Moraceae family (also known as the figs, paper mulberry, or silk trees) known for its edible fruit and the vital role its leaves play in silk production. Mulberry trees are deciduous, meaning they lose their leaves in the fall, and can grow into small to medium-sized trees or shrubs. The leaves are lobed and toothed, sometimes with a ridged appearance. The fruits develop from catkin clusters and are similar in appearance to blackberries, ripening to various colors like white, pink, red, or purple. Mulberries are rich in nutrients, including vitamins C and K, iron, fiber, and various minerals. They also contain antioxidants like anthocyanins. Mulberries have been used traditionally for various medicinal purposes, including blood tonic and digestive aid. The two main species are the white mulberry (Morus alba) and the red mulberry (Morus rubra), with other species like the black mulberry (Morus nigra) also being notable.",
@@ -2379,7 +2379,7 @@
     },
     {
         "common_name":"Phalsa",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Grewia asiatica",
         "short_description":["Flowering","Edible","Malvaceae"],
         "Description":"Also known as Indian Sherbet Berry, is a small, dark purple berry with a sweet and sour flavor. It's a tropical fruit commonly found in India and other Southeast Asian countries. Phalsa is a small tree or bush with slender branches and heart-shaped leaves. It blooms with yellow flowers in spring and early summer, producing fruits from April to June that turn purple as they ripen. The fruits are often used fresh, as juice, or in sherbets, and are known for their refreshing and cooling properties.  Used in traditional medicine for its cooling properties and for treating heat-related illnesses. Contains carbohydrates, proteins, vitamins A, B3, and C, and minerals like potassium, calcium, iron, and phosphorus. Rich in anthocyanins, tannins, phenols, and flavonoids, which contribute to its health benefits. It has antioxidant, cooling as weel as antifungal and antibacterial properties. Also helful in boosting cardiovascular health and digestive health.",
@@ -2391,7 +2391,7 @@
     },
     {
         "common_name":"Star Fruit/Carambola",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Averrhoa carambola",
         "short_description":["Flowering","Edible","Oxalidaceae"],
         "Description":"It  is a tropical fruit with a distinctive star shape when sliced.  Carambola trees are slow-growing and can reach heights of 6-10 meters. The fruit is known for its crisp, juicy texture and a flavor that ranges from sweet to sour, depending on the variety.  There are two main types: smaller, sour varieties and larger, sweeter ones. Carambola contains caramboxin and oxalic acid, which can be harmful to individuals with kidney problems or those undergoing dialysis.",
@@ -2403,7 +2403,7 @@
     },
     {
         "common_name":"Kiwi",
-        "Category":"Exotic",
+        "Category":["Exotic"],
         "scientific_name":"Actinidia chinensis",
         "short_description":["Flowering","Edible","Actinidiaceae"],
         "Description":"Kiwifruit, also known as Chinese gooseberry, is a small, nutrient-rich fruit with a distinctive brown, fuzzy skin and bright green, seed-studded flesh. It's a good source of vitamin C, vitamin K, dietary fiber, and antioxidants. Kiwifruit is known for its slightly tart, sweet, and refreshing flavor. High in vitamin C and good sources of vitamin K, vitamin E, and folate and contains potassium. Provides dietary fiber, which aids in digestion and can help with cholesterol. Richin antioxidants, which can help protect against cell damage.",
