@@ -1587,7 +1587,7 @@
     },
     {
         "common_name":"Rosary pea",
-        "Category":"Medicinal",
+        "Category":["Medicinal"],
         "scientific_name":"Abrus precatorius",
         "short_description":["Flowering","Highly Toxic","Fabaceae"],
         "Description":"It is a highly poisonous plant belonging to the bean family (Fabaceae). It is a slender, climbing herb or vine with bright red and black seeds that are commonly used as beads for rosaries and other decorations. The plant and its seeds are toxic due to the presence of abrin, a potent toxin.",
